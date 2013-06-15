@@ -1,0 +1,3884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Area>
+	<Province text="北京市" code="110000">
+		<City text="市辖区" code="110100">
+			<County text="东城区" code="110101" />
+			<County text="西城区" code="110102" />
+			<County text="朝阳区" code="110105" />
+			<County text="丰台区" code="110106" />
+			<County text="石景山区" code="110107" />
+			<County text="海淀区" code="110108" />
+			<County text="门头沟区" code="110109" />
+			<County text="房山区" code="110111" />
+			<County text="通州区" code="110112" />
+			<County text="顺义区" code="110113" />
+			<County text="昌平区" code="110114" />
+			<County text="大兴区" code="110115" />
+			<County text="怀柔区" code="110116" />
+			<County text="平谷区" code="110117" />
+		</City>
+		<City text="县" code="110200">
+			<County text="密云县" code="110228" />
+			<County text="延庆县" code="110229" />
+		</City>
+	</Province>
+	<Province text="天津市" code="120000">
+		<City text="市辖区" code="120100">
+			<County text="和平区" code="120101" />
+			<County text="河东区" code="120102" />
+			<County text="河西区" code="120103" />
+			<County text="南开区" code="120104" />
+			<County text="河北区" code="120105" />
+			<County text="红桥区" code="120106" />
+			<County text="东丽区" code="120110" />
+			<County text="西青区" code="120111" />
+			<County text="津南区" code="120112" />
+			<County text="北辰区" code="120113" />
+			<County text="武清区" code="120114" />
+			<County text="宝坻区" code="120115" />
+			<County text="滨海新区" code="120116" />
+		</City>
+		<City text="县" code="120200">
+			<County text="宁河县" code="120221" />
+			<County text="静海县" code="120223" />
+			<County text="蓟县" code="120225" />
+		</City>
+	</Province>
+	<Province text="河北省" code="130000">
+		<City text="石家庄市" code="130100">
+			<County text="市辖区" code="130101" />
+			<County text="长安区" code="130102" />
+			<County text="桥东区" code="130103" />
+			<County text="桥西区" code="130104" />
+			<County text="新华区" code="130105" />
+			<County text="井陉矿区" code="130107" />
+			<County text="裕华区" code="130108" />
+			<County text="井陉县" code="130121" />
+			<County text="正定县" code="130123" />
+			<County text="栾城县" code="130124" />
+			<County text="行唐县" code="130125" />
+			<County text="灵寿县" code="130126" />
+			<County text="高邑县" code="130127" />
+			<County text="深泽县" code="130128" />
+			<County text="赞皇县" code="130129" />
+			<County text="无极县" code="130130" />
+			<County text="平山县" code="130131" />
+			<County text="元氏县" code="130132" />
+			<County text="赵县" code="130133" />
+			<County text="辛集市" code="130181" />
+			<County text="藁城市" code="130182" />
+			<County text="晋州市" code="130183" />
+			<County text="新乐市" code="130184" />
+			<County text="鹿泉市" code="130185" />
+		</City>
+		<City text="唐山市" code="130200">
+			<County text="市辖区" code="130201" />
+			<County text="路南区" code="130202" />
+			<County text="路北区" code="130203" />
+			<County text="古冶区" code="130204" />
+			<County text="开平区" code="130205" />
+			<County text="丰南区" code="130207" />
+			<County text="丰润区" code="130208" />
+			<County text="曹妃甸区" code="130209" />
+			<County text="滦县" code="130223" />
+			<County text="滦南县" code="130224" />
+			<County text="乐亭县" code="130225" />
+			<County text="迁西县" code="130227" />
+			<County text="玉田县" code="130229" />
+			<County text="遵化市" code="130281" />
+			<County text="迁安市" code="130283" />
+		</City>
+		<City text="秦皇岛市" code="130300">
+			<County text="市辖区" code="130301" />
+			<County text="海港区" code="130302" />
+			<County text="山海关区" code="130303" />
+			<County text="北戴河区" code="130304" />
+			<County text="青龙满族自治县" code="130321" />
+			<County text="昌黎县" code="130322" />
+			<County text="抚宁县" code="130323" />
+			<County text="卢龙县" code="130324" />
+		</City>
+		<City text="邯郸市" code="130400">
+			<County text="市辖区" code="130401" />
+			<County text="邯山区" code="130402" />
+			<County text="丛台区" code="130403" />
+			<County text="复兴区" code="130404" />
+			<County text="峰峰矿区" code="130406" />
+			<County text="邯郸县" code="130421" />
+			<County text="临漳县" code="130423" />
+			<County text="成安县" code="130424" />
+			<County text="大名县" code="130425" />
+			<County text="涉县" code="130426" />
+			<County text="磁县" code="130427" />
+			<County text="肥乡县" code="130428" />
+			<County text="永年县" code="130429" />
+			<County text="邱县" code="130430" />
+			<County text="鸡泽县" code="130431" />
+			<County text="广平县" code="130432" />
+			<County text="馆陶县" code="130433" />
+			<County text="魏县" code="130434" />
+			<County text="曲周县" code="130435" />
+			<County text="武安市" code="130481" />
+		</City>
+		<City text="邢台市" code="130500">
+			<County text="市辖区" code="130501" />
+			<County text="桥东区" code="130502" />
+			<County text="桥西区" code="130503" />
+			<County text="邢台县" code="130521" />
+			<County text="临城县" code="130522" />
+			<County text="内丘县" code="130523" />
+			<County text="柏乡县" code="130524" />
+			<County text="隆尧县" code="130525" />
+			<County text="任县" code="130526" />
+			<County text="南和县" code="130527" />
+			<County text="宁晋县" code="130528" />
+			<County text="巨鹿县" code="130529" />
+			<County text="新河县" code="130530" />
+			<County text="广宗县" code="130531" />
+			<County text="平乡县" code="130532" />
+			<County text="威县" code="130533" />
+			<County text="清河县" code="130534" />
+			<County text="临西县" code="130535" />
+			<County text="南宫市" code="130581" />
+			<County text="沙河市" code="130582" />
+		</City>
+		<City text="保定市" code="130600">
+			<County text="市辖区" code="130601" />
+			<County text="新市区" code="130602" />
+			<County text="北市区" code="130603" />
+			<County text="南市区" code="130604" />
+			<County text="满城县" code="130621" />
+			<County text="清苑县" code="130622" />
+			<County text="涞水县" code="130623" />
+			<County text="阜平县" code="130624" />
+			<County text="徐水县" code="130625" />
+			<County text="定兴县" code="130626" />
+			<County text="唐县" code="130627" />
+			<County text="高阳县" code="130628" />
+			<County text="容城县" code="130629" />
+			<County text="涞源县" code="130630" />
+			<County text="望都县" code="130631" />
+			<County text="安新县" code="130632" />
+			<County text="易县" code="130633" />
+			<County text="曲阳县" code="130634" />
+			<County text="蠡县" code="130635" />
+			<County text="顺平县" code="130636" />
+			<County text="博野县" code="130637" />
+			<County text="雄县" code="130638" />
+			<County text="涿州市" code="130681" />
+			<County text="定州市" code="130682" />
+			<County text="安国市" code="130683" />
+			<County text="高碑店市" code="130684" />
+		</City>
+		<City text="张家口市" code="130700">
+			<County text="市辖区" code="130701" />
+			<County text="桥东区" code="130702" />
+			<County text="桥西区" code="130703" />
+			<County text="宣化区" code="130705" />
+			<County text="下花园区" code="130706" />
+			<County text="宣化县" code="130721" />
+			<County text="张北县" code="130722" />
+			<County text="康保县" code="130723" />
+			<County text="沽源县" code="130724" />
+			<County text="尚义县" code="130725" />
+			<County text="蔚县" code="130726" />
+			<County text="阳原县" code="130727" />
+			<County text="怀安县" code="130728" />
+			<County text="万全县" code="130729" />
+			<County text="怀来县" code="130730" />
+			<County text="涿鹿县" code="130731" />
+			<County text="赤城县" code="130732" />
+			<County text="崇礼县" code="130733" />
+		</City>
+		<City text="承德市" code="130800">
+			<County text="市辖区" code="130801" />
+			<County text="双桥区" code="130802" />
+			<County text="双滦区" code="130803" />
+			<County text="鹰手营子矿区" code="130804" />
+			<County text="承德县" code="130821" />
+			<County text="兴隆县" code="130822" />
+			<County text="平泉县" code="130823" />
+			<County text="滦平县" code="130824" />
+			<County text="隆化县" code="130825" />
+			<County text="丰宁满族自治县" code="130826" />
+			<County text="宽城满族自治县" code="130827" />
+			<County text="围场满族蒙古族自治县" code="130828" />
+		</City>
+		<City text="沧州市" code="130900">
+			<County text="市辖区" code="130901" />
+			<County text="新华区" code="130902" />
+			<County text="运河区" code="130903" />
+			<County text="沧县" code="130921" />
+			<County text="青县" code="130922" />
+			<County text="东光县" code="130923" />
+			<County text="海兴县" code="130924" />
+			<County text="盐山县" code="130925" />
+			<County text="肃宁县" code="130926" />
+			<County text="南皮县" code="130927" />
+			<County text="吴桥县" code="130928" />
+			<County text="献县" code="130929" />
+			<County text="孟村回族自治县" code="130930" />
+			<County text="泊头市" code="130981" />
+			<County text="任丘市" code="130982" />
+			<County text="黄骅市" code="130983" />
+			<County text="河间市" code="130984" />
+		</City>
+		<City text="廊坊市" code="131000">
+			<County text="市辖区" code="131001" />
+			<County text="安次区" code="131002" />
+			<County text="广阳区" code="131003" />
+			<County text="固安县" code="131022" />
+			<County text="永清县" code="131023" />
+			<County text="香河县" code="131024" />
+			<County text="大城县" code="131025" />
+			<County text="文安县" code="131026" />
+			<County text="大厂回族自治县" code="131028" />
+			<County text="霸州市" code="131081" />
+			<County text="三河市" code="131082" />
+		</City>
+		<City text="衡水市" code="131100">
+			<County text="市辖区" code="131101" />
+			<County text="桃城区" code="131102" />
+			<County text="枣强县" code="131121" />
+			<County text="武邑县" code="131122" />
+			<County text="武强县" code="131123" />
+			<County text="饶阳县" code="131124" />
+			<County text="安平县" code="131125" />
+			<County text="故城县" code="131126" />
+			<County text="景县" code="131127" />
+			<County text="阜城县" code="131128" />
+			<County text="冀州市" code="131181" />
+			<County text="深州市" code="131182" />
+		</City>
+	</Province>
+	<Province text="山西省" code="140000">
+		<City text="太原市" code="140100">
+			<County text="市辖区" code="140101" />
+			<County text="小店区" code="140105" />
+			<County text="迎泽区" code="140106" />
+			<County text="杏花岭区" code="140107" />
+			<County text="尖草坪区" code="140108" />
+			<County text="万柏林区" code="140109" />
+			<County text="晋源区" code="140110" />
+			<County text="清徐县" code="140121" />
+			<County text="阳曲县" code="140122" />
+			<County text="娄烦县" code="140123" />
+			<County text="古交市" code="140181" />
+		</City>
+		<City text="大同市" code="140200">
+			<County text="市辖区" code="140201" />
+			<County text="城区" code="140202" />
+			<County text="矿区" code="140203" />
+			<County text="南郊区" code="140211" />
+			<County text="新荣区" code="140212" />
+			<County text="阳高县" code="140221" />
+			<County text="天镇县" code="140222" />
+			<County text="广灵县" code="140223" />
+			<County text="灵丘县" code="140224" />
+			<County text="浑源县" code="140225" />
+			<County text="左云县" code="140226" />
+			<County text="大同县" code="140227" />
+		</City>
+		<City text="阳泉市" code="140300">
+			<County text="市辖区" code="140301" />
+			<County text="城区" code="140302" />
+			<County text="矿区" code="140303" />
+			<County text="郊区" code="140311" />
+			<County text="平定县" code="140321" />
+			<County text="盂县" code="140322" />
+		</City>
+		<City text="长治市" code="140400">
+			<County text="市辖区" code="140401" />
+			<County text="城区" code="140402" />
+			<County text="郊区" code="140411" />
+			<County text="长治县" code="140421" />
+			<County text="襄垣县" code="140423" />
+			<County text="屯留县" code="140424" />
+			<County text="平顺县" code="140425" />
+			<County text="黎城县" code="140426" />
+			<County text="壶关县" code="140427" />
+			<County text="长子县" code="140428" />
+			<County text="武乡县" code="140429" />
+			<County text="沁县" code="140430" />
+			<County text="沁源县" code="140431" />
+			<County text="潞城市" code="140481" />
+		</City>
+		<City text="晋城市" code="140500">
+			<County text="晋城市市辖区" code="140501" />
+			<County text="城区" code="140502" />
+			<County text="沁水县" code="140521" />
+			<County text="阳城县" code="140522" />
+			<County text="陵川县" code="140524" />
+			<County text="泽州县" code="140525" />
+			<County text="高平市" code="140581" />
+		</City>
+		<City text="朔州市" code="140600">
+			<County text="市辖区" code="140601" />
+			<County text="朔城区" code="140602" />
+			<County text="平鲁区" code="140603" />
+			<County text="山阴县" code="140621" />
+			<County text="应县" code="140622" />
+			<County text="右玉县" code="140623" />
+			<County text="怀仁县" code="140624" />
+		</City>
+		<City text="晋中市" code="140700">
+			<County text="市辖区" code="140701" />
+			<County text="榆次区" code="140702" />
+			<County text="榆社县" code="140721" />
+			<County text="左权县" code="140722" />
+			<County text="和顺县" code="140723" />
+			<County text="昔阳县" code="140724" />
+			<County text="寿阳县" code="140725" />
+			<County text="太谷县" code="140726" />
+			<County text="祁县" code="140727" />
+			<County text="平遥县" code="140728" />
+			<County text="灵石县" code="140729" />
+			<County text="介休市" code="140781" />
+		</City>
+		<City text="运城市" code="140800">
+			<County text="市辖区" code="140801" />
+			<County text="盐湖区" code="140802" />
+			<County text="临猗县" code="140821" />
+			<County text="万荣县" code="140822" />
+			<County text="闻喜县" code="140823" />
+			<County text="稷山县" code="140824" />
+			<County text="新绛县" code="140825" />
+			<County text="绛县" code="140826" />
+			<County text="垣曲县" code="140827" />
+			<County text="夏县" code="140828" />
+			<County text="平陆县" code="140829" />
+			<County text="芮城县" code="140830" />
+			<County text="永济市" code="140881" />
+			<County text="河津市" code="140882" />
+		</City>
+		<City text="忻州市" code="140900">
+			<County text="市辖区" code="140901" />
+			<County text="忻府区" code="140902" />
+			<County text="定襄县" code="140921" />
+			<County text="五台县" code="140922" />
+			<County text="代县" code="140923" />
+			<County text="繁峙县" code="140924" />
+			<County text="宁武县" code="140925" />
+			<County text="静乐县" code="140926" />
+			<County text="神池县" code="140927" />
+			<County text="五寨县" code="140928" />
+			<County text="岢岚县" code="140929" />
+			<County text="河曲县" code="140930" />
+			<County text="保德县" code="140931" />
+			<County text="偏关县" code="140932" />
+			<County text="原平市" code="140981" />
+		</City>
+		<City text="临汾市" code="141000">
+			<County text="市辖区" code="141001" />
+			<County text="尧都区" code="141002" />
+			<County text="曲沃县" code="141021" />
+			<County text="翼城县" code="141022" />
+			<County text="襄汾县" code="141023" />
+			<County text="洪洞县" code="141024" />
+			<County text="古县" code="141025" />
+			<County text="安泽县" code="141026" />
+			<County text="浮山县" code="141027" />
+			<County text="吉县" code="141028" />
+			<County text="乡宁县" code="141029" />
+			<County text="大宁县" code="141030" />
+			<County text="隰县" code="141031" />
+			<County text="永和县" code="141032" />
+			<County text="蒲县" code="141033" />
+			<County text="汾西县" code="141034" />
+			<County text="侯马市" code="141081" />
+			<County text="霍州市" code="141082" />
+		</City>
+		<City text="吕梁市" code="141100">
+			<County text="市辖区" code="141101" />
+			<County text="离石区" code="141102" />
+			<County text="文水县" code="141121" />
+			<County text="交城县" code="141122" />
+			<County text="兴县" code="141123" />
+			<County text="临县" code="141124" />
+			<County text="柳林县" code="141125" />
+			<County text="石楼县" code="141126" />
+			<County text="岚县" code="141127" />
+			<County text="方山县" code="141128" />
+			<County text="中阳县" code="141129" />
+			<County text="交口县" code="141130" />
+			<County text="孝义市" code="141181" />
+			<County text="汾阳市" code="141182" />
+		</City>
+	</Province>
+	<Province text="内蒙古自治区" code="150000">
+		<City text="呼和浩特市" code="150100">
+			<County text="市辖区" code="150101" />
+			<County text="新城区" code="150102" />
+			<County text="回民区" code="150103" />
+			<County text="玉泉区" code="150104" />
+			<County text="赛罕区" code="150105" />
+			<County text="土默特左旗" code="150121" />
+			<County text="托克托县" code="150122" />
+			<County text="和林格尔县" code="150123" />
+			<County text="清水河县" code="150124" />
+			<County text="武川县" code="150125" />
+		</City>
+		<City text="包头市" code="150200">
+			<County text="市辖区" code="150201" />
+			<County text="东河区" code="150202" />
+			<County text="昆都仑区" code="150203" />
+			<County text="青山区" code="150204" />
+			<County text="石拐区" code="150205" />
+			<County text="白云鄂博矿区" code="150206" />
+			<County text="九原区" code="150207" />
+			<County text="土默特右旗" code="150221" />
+			<County text="固阳县" code="150222" />
+			<County text="达尔罕茂明安联合旗" code="150223" />
+		</City>
+		<City text="乌海市" code="150300">
+			<County text="市辖区" code="150301" />
+			<County text="海勃湾区" code="150302" />
+			<County text="海南区" code="150303" />
+			<County text="乌达区" code="150304" />
+		</City>
+		<City text="赤峰市" code="150400">
+			<County text="市辖区" code="150401" />
+			<County text="红山区" code="150402" />
+			<County text="元宝山区" code="150403" />
+			<County text="松山区" code="150404" />
+			<County text="阿鲁科尔沁旗" code="150421" />
+			<County text="巴林左旗" code="150422" />
+			<County text="巴林右旗" code="150423" />
+			<County text="林西县" code="150424" />
+			<County text="克什克腾旗" code="150425" />
+			<County text="翁牛特旗" code="150426" />
+			<County text="喀喇沁旗" code="150428" />
+			<County text="宁城县" code="150429" />
+			<County text="敖汉旗" code="150430" />
+		</City>
+		<City text="通辽市" code="150500">
+			<County text="市辖区" code="150501" />
+			<County text="科尔沁区" code="150502" />
+			<County text="科尔沁左翼中旗" code="150521" />
+			<County text="科尔沁左翼后旗" code="150522" />
+			<County text="开鲁县" code="150523" />
+			<County text="库伦旗" code="150524" />
+			<County text="奈曼旗" code="150525" />
+			<County text="扎鲁特旗" code="150526" />
+			<County text="霍林郭勒市" code="150581" />
+		</City>
+		<City text="鄂尔多斯市" code="150600">
+			<County text="市辖区" code="150601" />
+			<County text="东胜区" code="150602" />
+			<County text="达拉特旗" code="150621" />
+			<County text="准格尔旗" code="150622" />
+			<County text="鄂托克前旗" code="150623" />
+			<County text="鄂托克旗" code="150624" />
+			<County text="杭锦旗" code="150625" />
+			<County text="乌审旗" code="150626" />
+			<County text="伊金霍洛旗" code="150627" />
+		</City>
+		<City text="呼伦贝尔市" code="150700">
+			<County text="市辖区" code="150701" />
+			<County text="海拉尔区" code="150702" />
+			<County text="阿荣旗" code="150721" />
+			<County text="莫力达瓦达斡尔族自治旗" code="150722" />
+			<County text="鄂伦春自治旗" code="150723" />
+			<County text="鄂温克族自治旗" code="150724" />
+			<County text="陈巴尔虎旗" code="150725" />
+			<County text="新巴尔虎左旗" code="150726" />
+			<County text="新巴尔虎右旗" code="150727" />
+			<County text="满洲里市" code="150781" />
+			<County text="牙克石市" code="150782" />
+			<County text="扎兰屯市" code="150783" />
+			<County text="额尔古纳市" code="150784" />
+			<County text="根河市" code="150785" />
+		</City>
+		<City text="巴彦淖尔市" code="150800">
+			<County text="市辖区" code="150801" />
+			<County text="临河区" code="150802" />
+			<County text="五原县" code="150821" />
+			<County text="磴口县" code="150822" />
+			<County text="乌拉特前旗" code="150823" />
+			<County text="乌拉特中旗" code="150824" />
+			<County text="乌拉特后旗" code="150825" />
+			<County text="杭锦后旗" code="150826" />
+		</City>
+		<City text="乌兰察布市" code="150900">
+			<County text="市辖区" code="150901" />
+			<County text="集宁区" code="150902" />
+			<County text="卓资县" code="150921" />
+			<County text="化德县" code="150922" />
+			<County text="商都县" code="150923" />
+			<County text="兴和县" code="150924" />
+			<County text="凉城县" code="150925" />
+			<County text="察哈尔右翼前旗" code="150926" />
+			<County text="察哈尔右翼中旗" code="150927" />
+			<County text="察哈尔右翼后旗" code="150928" />
+			<County text="四子王旗" code="150929" />
+			<County text="丰镇市" code="150981" />
+		</City>
+		<City text="兴安盟" code="152200">
+			<County text="乌兰浩特市" code="152201" />
+			<County text="阿尔山市" code="152202" />
+			<County text="科尔沁右翼前旗" code="152221" />
+			<County text="科尔沁右翼中旗" code="152222" />
+			<County text="扎赉特旗" code="152223" />
+			<County text="突泉县" code="152224" />
+		</City>
+		<City text="锡林郭勒盟" code="152500">
+			<County text="二连浩特市" code="152501" />
+			<County text="锡林浩特市" code="152502" />
+			<County text="阿巴嘎旗" code="152522" />
+			<County text="苏尼特左旗" code="152523" />
+			<County text="苏尼特右旗" code="152524" />
+			<County text="东乌珠穆沁旗" code="152525" />
+			<County text="西乌珠穆沁旗" code="152526" />
+			<County text="太仆寺旗" code="152527" />
+			<County text="镶黄旗" code="152528" />
+			<County text="正镶白旗" code="152529" />
+			<County text="正蓝旗" code="152530" />
+			<County text="多伦县" code="152531" />
+		</City>
+		<City text="阿拉善盟" code="152900">
+			<County text="阿拉善左旗" code="152921" />
+			<County text="阿拉善右旗" code="152922" />
+			<County text="额济纳旗" code="152923" />
+		</City>
+	</Province>
+	<Province text="辽宁省" code="210000">
+		<City text="沈阳市" code="210100">
+			<County text="市辖区" code="210101" />
+			<County text="和平区" code="210102" />
+			<County text="沈河区" code="210103" />
+			<County text="大东区" code="210104" />
+			<County text="皇姑区" code="210105" />
+			<County text="铁西区" code="210106" />
+			<County text="苏家屯区" code="210111" />
+			<County text="东陵区" code="210112" />
+			<County text="沈北新区" code="210113" />
+			<County text="于洪区" code="210114" />
+			<County text="辽中县" code="210122" />
+			<County text="康平县" code="210123" />
+			<County text="法库县" code="210124" />
+			<County text="新民市" code="210181" />
+		</City>
+		<City text="大连市" code="210200">
+			<County text="市辖区" code="210201" />
+			<County text="中山区" code="210202" />
+			<County text="西岗区" code="210203" />
+			<County text="沙河口区" code="210204" />
+			<County text="甘井子区" code="210211" />
+			<County text="旅顺口区" code="210212" />
+			<County text="金州区" code="210213" />
+			<County text="长海县" code="210224" />
+			<County text="瓦房店市" code="210281" />
+			<County text="普兰店市" code="210282" />
+			<County text="庄河市" code="210283" />
+		</City>
+		<City text="鞍山市" code="210300">
+			<County text="市辖区" code="210301" />
+			<County text="铁东区" code="210302" />
+			<County text="铁西区" code="210303" />
+			<County text="立山区" code="210304" />
+			<County text="千山区" code="210311" />
+			<County text="台安县" code="210321" />
+			<County text="岫岩满族自治县" code="210323" />
+			<County text="海城市" code="210381" />
+		</City>
+		<City text="抚顺市" code="210400">
+			<County text="市辖区" code="210401" />
+			<County text="新抚区" code="210402" />
+			<County text="东洲区" code="210403" />
+			<County text="望花区" code="210404" />
+			<County text="顺城区" code="210411" />
+			<County text="抚顺县" code="210421" />
+			<County text="新宾满族自治县" code="210422" />
+			<County text="清原满族自治县" code="210423" />
+		</City>
+		<City text="本溪市" code="210500">
+			<County text="市辖区" code="210501" />
+			<County text="平山区" code="210502" />
+			<County text="溪湖区" code="210503" />
+			<County text="明山区" code="210504" />
+			<County text="南芬区" code="210505" />
+			<County text="本溪满族自治县" code="210521" />
+			<County text="桓仁满族自治县" code="210522" />
+		</City>
+		<City text="丹东市" code="210600">
+			<County text="市辖区" code="210601" />
+			<County text="元宝区" code="210602" />
+			<County text="振兴区" code="210603" />
+			<County text="振安区" code="210604" />
+			<County text="宽甸满族自治县" code="210624" />
+			<County text="东港市" code="210681" />
+			<County text="凤城市" code="210682" />
+		</City>
+		<City text="锦州市" code="210700">
+			<County text="市辖区" code="210701" />
+			<County text="古塔区" code="210702" />
+			<County text="凌河区" code="210703" />
+			<County text="太和区" code="210711" />
+			<County text="黑山县" code="210726" />
+			<County text="义县" code="210727" />
+			<County text="凌海市" code="210781" />
+			<County text="北镇市" code="210782" />
+		</City>
+		<City text="营口市" code="210800">
+			<County text="市辖区" code="210801" />
+			<County text="站前区" code="210802" />
+			<County text="西市区" code="210803" />
+			<County text="鲅鱼圈区" code="210804" />
+			<County text="老边区" code="210811" />
+			<County text="盖州市" code="210881" />
+			<County text="大石桥市" code="210882" />
+		</City>
+		<City text="阜新市" code="210900">
+			<County text="市辖区" code="210901" />
+			<County text="海州区" code="210902" />
+			<County text="新邱区" code="210903" />
+			<County text="太平区" code="210904" />
+			<County text="清河门区" code="210905" />
+			<County text="细河区" code="210911" />
+			<County text="阜新蒙古族自治县" code="210921" />
+			<County text="彰武县" code="210922" />
+		</City>
+		<City text="辽阳市" code="211000">
+			<County text="市辖区" code="211001" />
+			<County text="白塔区" code="211002" />
+			<County text="文圣区" code="211003" />
+			<County text="宏伟区" code="211004" />
+			<County text="弓长岭区" code="211005" />
+			<County text="太子河区" code="211011" />
+			<County text="辽阳县" code="211021" />
+			<County text="灯塔市" code="211081" />
+		</City>
+		<City text="盘锦市" code="211100">
+			<County text="市辖区" code="211101" />
+			<County text="双台子区" code="211102" />
+			<County text="兴隆台区" code="211103" />
+			<County text="大洼县" code="211121" />
+			<County text="盘山县" code="211122" />
+		</City>
+		<City text="铁岭市" code="211200">
+			<County text="市辖区" code="211201" />
+			<County text="银州区" code="211202" />
+			<County text="清河区" code="211204" />
+			<County text="铁岭县" code="211221" />
+			<County text="西丰县" code="211223" />
+			<County text="昌图县" code="211224" />
+			<County text="调兵山市" code="211281" />
+			<County text="开原市" code="211282" />
+		</City>
+		<City text="朝阳市" code="211300">
+			<County text="市辖区" code="211301" />
+			<County text="双塔区" code="211302" />
+			<County text="龙城区" code="211303" />
+			<County text="朝阳县" code="211321" />
+			<County text="建平县" code="211322" />
+			<County text="喀喇沁左翼蒙古族自治县" code="211324" />
+			<County text="北票市" code="211381" />
+			<County text="凌源市" code="211382" />
+		</City>
+		<City text="葫芦岛市" code="211400">
+			<County text="市辖区" code="211401" />
+			<County text="连山区" code="211402" />
+			<County text="龙港区" code="211403" />
+			<County text="南票区" code="211404" />
+			<County text="绥中县" code="211421" />
+			<County text="建昌县" code="211422" />
+			<County text="兴城市" code="211481" />
+		</City>
+	</Province>
+	<Province text="吉林省" code="220000">
+		<City text="长春市" code="220100">
+			<County text="市辖区" code="220101" />
+			<County text="南关区" code="220102" />
+			<County text="宽城区" code="220103" />
+			<County text="朝阳区" code="220104" />
+			<County text="二道区" code="220105" />
+			<County text="绿园区" code="220106" />
+			<County text="双阳区" code="220112" />
+			<County text="农安县" code="220122" />
+			<County text="九台市" code="220181" />
+			<County text="榆树市" code="220182" />
+			<County text="德惠市" code="220183" />
+		</City>
+		<City text="吉林市" code="220200">
+			<County text="市辖区" code="220201" />
+			<County text="昌邑区" code="220202" />
+			<County text="龙潭区" code="220203" />
+			<County text="船营区" code="220204" />
+			<County text="丰满区" code="220211" />
+			<County text="永吉县" code="220221" />
+			<County text="蛟河市" code="220281" />
+			<County text="桦甸市" code="220282" />
+			<County text="舒兰市" code="220283" />
+			<County text="磐石市" code="220284" />
+		</City>
+		<City text="四平市" code="220300">
+			<County text="市辖区" code="220301" />
+			<County text="铁西区" code="220302" />
+			<County text="铁东区" code="220303" />
+			<County text="梨树县" code="220322" />
+			<County text="伊通满族自治县" code="220323" />
+			<County text="公主岭市" code="220381" />
+			<County text="双辽市" code="220382" />
+		</City>
+		<City text="辽源市" code="220400">
+			<County text="市辖区" code="220401" />
+			<County text="龙山区" code="220402" />
+			<County text="西安区" code="220403" />
+			<County text="东丰县" code="220421" />
+			<County text="东辽县" code="220422" />
+		</City>
+		<City text="通化市" code="220500">
+			<County text="市辖区" code="220501" />
+			<County text="东昌区" code="220502" />
+			<County text="二道江区" code="220503" />
+			<County text="通化县" code="220521" />
+			<County text="辉南县" code="220523" />
+			<County text="柳河县" code="220524" />
+			<County text="梅河口市" code="220581" />
+			<County text="集安市" code="220582" />
+		</City>
+		<City text="白山市" code="220600">
+			<County text="市辖区" code="220601" />
+			<County text="浑江区" code="220602" />
+			<County text="江源区" code="220605" />
+			<County text="抚松县" code="220621" />
+			<County text="靖宇县" code="220622" />
+			<County text="长白朝鲜族自治县" code="220623" />
+			<County text="临江市" code="220681" />
+		</City>
+		<City text="松原市" code="220700">
+			<County text="市辖区" code="220701" />
+			<County text="宁江区" code="220702" />
+			<County text="前郭尔罗斯蒙古族自治县" code="220721" />
+			<County text="长岭县" code="220722" />
+			<County text="乾安县" code="220723" />
+			<County text="扶余县" code="220724" />
+		</City>
+		<City text="白城市" code="220800">
+			<County text="市辖区" code="220801" />
+			<County text="洮北区" code="220802" />
+			<County text="镇赉县" code="220821" />
+			<County text="通榆县" code="220822" />
+			<County text="洮南市" code="220881" />
+			<County text="大安市" code="220882" />
+		</City>
+		<City text="延边朝鲜族自治州" code="222400">
+			<County text="延吉市" code="222401" />
+			<County text="图们市" code="222402" />
+			<County text="敦化市" code="222403" />
+			<County text="珲春市" code="222404" />
+			<County text="龙井市" code="222405" />
+			<County text="和龙市" code="222406" />
+			<County text="汪清县" code="222424" />
+			<County text="安图县" code="222426" />
+		</City>
+	</Province>
+	<Province text="黑龙江省" code="230000">
+		<City text="哈尔滨市" code="230100">
+			<County text="市辖区" code="230101" />
+			<County text="道里区" code="230102" />
+			<County text="南岗区" code="230103" />
+			<County text="道外区" code="230104" />
+			<County text="平房区" code="230108" />
+			<County text="松北区" code="230109" />
+			<County text="香坊区" code="230110" />
+			<County text="呼兰区" code="230111" />
+			<County text="阿城区" code="230112" />
+			<County text="依兰县" code="230123" />
+			<County text="方正县" code="230124" />
+			<County text="宾县" code="230125" />
+			<County text="巴彦县" code="230126" />
+			<County text="木兰县" code="230127" />
+			<County text="通河县" code="230128" />
+			<County text="延寿县" code="230129" />
+			<County text="双城市" code="230182" />
+			<County text="尚志市" code="230183" />
+			<County text="五常市" code="230184" />
+		</City>
+		<City text="齐齐哈尔市" code="230200">
+			<County text="市辖区" code="230201" />
+			<County text="龙沙区" code="230202" />
+			<County text="建华区" code="230203" />
+			<County text="铁锋区" code="230204" />
+			<County text="昂昂溪区" code="230205" />
+			<County text="富拉尔基区" code="230206" />
+			<County text="碾子山区" code="230207" />
+			<County text="梅里斯达斡尔族区" code="230208" />
+			<County text="龙江县" code="230221" />
+			<County text="依安县" code="230223" />
+			<County text="泰来县" code="230224" />
+			<County text="甘南县" code="230225" />
+			<County text="富裕县" code="230227" />
+			<County text="克山县" code="230229" />
+			<County text="克东县" code="230230" />
+			<County text="拜泉县" code="230231" />
+			<County text="讷河市" code="230281" />
+		</City>
+		<City text="鸡西市" code="230300">
+			<County text="市辖区" code="230301" />
+			<County text="鸡冠区" code="230302" />
+			<County text="恒山区" code="230303" />
+			<County text="滴道区" code="230304" />
+			<County text="梨树区" code="230305" />
+			<County text="城子河区" code="230306" />
+			<County text="麻山区" code="230307" />
+			<County text="鸡东县" code="230321" />
+			<County text="虎林市" code="230381" />
+			<County text="密山市" code="230382" />
+		</City>
+		<City text="鹤岗市" code="230400">
+			<County text="市辖区" code="230401" />
+			<County text="向阳区" code="230402" />
+			<County text="工农区" code="230403" />
+			<County text="南山区" code="230404" />
+			<County text="兴安区" code="230405" />
+			<County text="东山区" code="230406" />
+			<County text="兴山区" code="230407" />
+			<County text="萝北县" code="230421" />
+			<County text="绥滨县" code="230422" />
+		</City>
+		<City text="双鸭山市" code="230500">
+			<County text="市辖区" code="230501" />
+			<County text="尖山区" code="230502" />
+			<County text="岭东区" code="230503" />
+			<County text="四方台区" code="230505" />
+			<County text="宝山区" code="230506" />
+			<County text="集贤县" code="230521" />
+			<County text="友谊县" code="230522" />
+			<County text="宝清县" code="230523" />
+			<County text="饶河县" code="230524" />
+		</City>
+		<City text="大庆市" code="230600">
+			<County text="市辖区" code="230601" />
+			<County text="萨尔图区" code="230602" />
+			<County text="龙凤区" code="230603" />
+			<County text="让胡路区" code="230604" />
+			<County text="红岗区" code="230605" />
+			<County text="大同区" code="230606" />
+			<County text="肇州县" code="230621" />
+			<County text="肇源县" code="230622" />
+			<County text="林甸县" code="230623" />
+			<County text="杜尔伯特蒙古族自治县" code="230624" />
+		</City>
+		<City text="伊春市" code="230700">
+			<County text="市辖区" code="230701" />
+			<County text="伊春区" code="230702" />
+			<County text="南岔区" code="230703" />
+			<County text="友好区" code="230704" />
+			<County text="西林区" code="230705" />
+			<County text="翠峦区" code="230706" />
+			<County text="新青区" code="230707" />
+			<County text="美溪区" code="230708" />
+			<County text="金山屯区" code="230709" />
+			<County text="五营区" code="230710" />
+			<County text="乌马河区" code="230711" />
+			<County text="汤旺河区" code="230712" />
+			<County text="带岭区" code="230713" />
+			<County text="乌伊岭区" code="230714" />
+			<County text="红星区" code="230715" />
+			<County text="上甘岭区" code="230716" />
+			<County text="嘉荫县" code="230722" />
+			<County text="铁力市" code="230781" />
+		</City>
+		<City text="佳木斯市" code="230800">
+			<County text="市辖区" code="230801" />
+			<County text="向阳区" code="230803" />
+			<County text="前进区" code="230804" />
+			<County text="东风区" code="230805" />
+			<County text="郊区" code="230811" />
+			<County text="桦南县" code="230822" />
+			<County text="桦川县" code="230826" />
+			<County text="汤原县" code="230828" />
+			<County text="抚远县" code="230833" />
+			<County text="同江市" code="230881" />
+			<County text="富锦市" code="230882" />
+		</City>
+		<City text="七台河市" code="230900">
+			<County text="市辖区" code="230901" />
+			<County text="新兴区" code="230902" />
+			<County text="桃山区" code="230903" />
+			<County text="茄子河区" code="230904" />
+			<County text="勃利县" code="230921" />
+		</City>
+		<City text="牡丹江市" code="231000">
+			<County text="市辖区" code="231001" />
+			<County text="东安区" code="231002" />
+			<County text="阳明区" code="231003" />
+			<County text="爱民区" code="231004" />
+			<County text="西安区" code="231005" />
+			<County text="东宁县" code="231024" />
+			<County text="林口县" code="231025" />
+			<County text="绥芬河市" code="231081" />
+			<County text="海林市" code="231083" />
+			<County text="宁安市" code="231084" />
+			<County text="穆棱市" code="231085" />
+		</City>
+		<City text="黑河市" code="231100">
+			<County text="市辖区" code="231101" />
+			<County text="爱辉区" code="231102" />
+			<County text="嫩江县" code="231121" />
+			<County text="逊克县" code="231123" />
+			<County text="孙吴县" code="231124" />
+			<County text="北安市" code="231181" />
+			<County text="五大连池市" code="231182" />
+		</City>
+		<City text="绥化市" code="231200">
+			<County text="市辖区" code="231201" />
+			<County text="北林区" code="231202" />
+			<County text="望奎县" code="231221" />
+			<County text="兰西县" code="231222" />
+			<County text="青冈县" code="231223" />
+			<County text="庆安县" code="231224" />
+			<County text="明水县" code="231225" />
+			<County text="绥棱县" code="231226" />
+			<County text="安达市" code="231281" />
+			<County text="肇东市" code="231282" />
+			<County text="海伦市" code="231283" />
+		</City>
+		<City text="大兴安岭地区" code="232700">
+			<County text="呼玛县" code="232721" />
+			<County text="塔河县" code="232722" />
+			<County text="漠河县" code="232723" />
+		</City>
+	</Province>
+	<Province text="上海市" code="310000">
+		<City text="市辖区" code="310100">
+			<County text="黄浦区" code="310101" />
+			<County text="徐汇区" code="310104" />
+			<County text="长宁区" code="310105" />
+			<County text="静安区" code="310106" />
+			<County text="普陀区" code="310107" />
+			<County text="闸北区" code="310108" />
+			<County text="虹口区" code="310109" />
+			<County text="杨浦区" code="310110" />
+			<County text="闵行区" code="310112" />
+			<County text="宝山区" code="310113" />
+			<County text="嘉定区" code="310114" />
+			<County text="浦东新区" code="310115" />
+			<County text="金山区" code="310116" />
+			<County text="松江区" code="310117" />
+			<County text="青浦区" code="310118" />
+			<County text="奉贤区" code="310120" />
+		</City>
+		<City text="县" code="310200">
+			<County text="崇明县" code="310230" />
+		</City>
+	</Province>
+	<Province text="江苏省" code="320000">
+		<City text="南京市" code="320100">
+			<County text="市辖区" code="320101" />
+			<County text="玄武区" code="320102" />
+			<County text="白下区" code="320103" />
+			<County text="秦淮区" code="320104" />
+			<County text="建邺区" code="320105" />
+			<County text="鼓楼区" code="320106" />
+			<County text="下关区" code="320107" />
+			<County text="浦口区" code="320111" />
+			<County text="栖霞区" code="320113" />
+			<County text="雨花台区" code="320114" />
+			<County text="江宁区" code="320115" />
+			<County text="六合区" code="320116" />
+			<County text="溧水县" code="320124" />
+			<County text="高淳县" code="320125" />
+		</City>
+		<City text="无锡市" code="320200">
+			<County text="市辖区" code="320201" />
+			<County text="崇安区" code="320202" />
+			<County text="南长区" code="320203" />
+			<County text="北塘区" code="320204" />
+			<County text="锡山区" code="320205" />
+			<County text="惠山区" code="320206" />
+			<County text="滨湖区" code="320211" />
+			<County text="江阴市" code="320281" />
+			<County text="宜兴市" code="320282" />
+		</City>
+		<City text="徐州市" code="320300">
+			<County text="市辖区" code="320301" />
+			<County text="鼓楼区" code="320302" />
+			<County text="云龙区" code="320303" />
+			<County text="贾汪区" code="320305" />
+			<County text="泉山区" code="320311" />
+			<County text="铜山区" code="320312" />
+			<County text="丰县" code="320321" />
+			<County text="沛县" code="320322" />
+			<County text="睢宁县" code="320324" />
+			<County text="新沂市" code="320381" />
+			<County text="邳州市" code="320382" />
+		</City>
+		<City text="常州市" code="320400">
+			<County text="市辖区" code="320401" />
+			<County text="天宁区" code="320402" />
+			<County text="钟楼区" code="320404" />
+			<County text="戚墅堰区" code="320405" />
+			<County text="新北区" code="320411" />
+			<County text="武进区" code="320412" />
+			<County text="溧阳市" code="320481" />
+			<County text="金坛市" code="320482" />
+		</City>
+		<City text="苏州市" code="320500">
+			<County text="市辖区" code="320501" />
+			<County text="虎丘区" code="320505" />
+			<County text="吴中区" code="320506" />
+			<County text="相城区" code="320507" />
+			<County text="姑苏区" code="320508" />
+			<County text="吴江区" code="320509" />
+			<County text="常熟市" code="320581" />
+			<County text="张家港市" code="320582" />
+			<County text="昆山市" code="320583" />
+			<County text="太仓市" code="320585" />
+		</City>
+		<City text="南通市" code="320600">
+			<County text="市辖区" code="320601" />
+			<County text="崇川区" code="320602" />
+			<County text="港闸区" code="320611" />
+			<County text="通州区" code="320612" />
+			<County text="海安县" code="320621" />
+			<County text="如东县" code="320623" />
+			<County text="启东市" code="320681" />
+			<County text="如皋市" code="320682" />
+			<County text="海门市" code="320684" />
+		</City>
+		<City text="连云港市" code="320700">
+			<County text="市辖区" code="320701" />
+			<County text="连云区" code="320703" />
+			<County text="新浦区" code="320705" />
+			<County text="海州区" code="320706" />
+			<County text="赣榆县" code="320721" />
+			<County text="东海县" code="320722" />
+			<County text="灌云县" code="320723" />
+			<County text="灌南县" code="320724" />
+		</City>
+		<City text="淮安市" code="320800">
+			<County text="市辖区" code="320801" />
+			<County text="清河区" code="320802" />
+			<County text="淮安区" code="320803" />
+			<County text="淮阴区" code="320804" />
+			<County text="清浦区" code="320811" />
+			<County text="涟水县" code="320826" />
+			<County text="洪泽县" code="320829" />
+			<County text="盱眙县" code="320830" />
+			<County text="金湖县" code="320831" />
+		</City>
+		<City text="盐城市" code="320900">
+			<County text="市辖区" code="320901" />
+			<County text="亭湖区" code="320902" />
+			<County text="盐都区" code="320903" />
+			<County text="响水县" code="320921" />
+			<County text="滨海县" code="320922" />
+			<County text="阜宁县" code="320923" />
+			<County text="射阳县" code="320924" />
+			<County text="建湖县" code="320925" />
+			<County text="东台市" code="320981" />
+			<County text="大丰市" code="320982" />
+		</City>
+		<City text="扬州市" code="321000">
+			<County text="市辖区" code="321001" />
+			<County text="广陵区" code="321002" />
+			<County text="邗江区" code="321003" />
+			<County text="江都区" code="321012" />
+			<County text="宝应县" code="321023" />
+			<County text="仪征市" code="321081" />
+			<County text="高邮市" code="321084" />
+		</City>
+		<City text="镇江市" code="321100">
+			<County text="市辖区" code="321101" />
+			<County text="京口区" code="321102" />
+			<County text="润州区" code="321111" />
+			<County text="丹徒区" code="321112" />
+			<County text="丹阳市" code="321181" />
+			<County text="扬中市" code="321182" />
+			<County text="句容市" code="321183" />
+		</City>
+		<City text="泰州市" code="321200">
+			<County text="市辖区" code="321201" />
+			<County text="海陵区" code="321202" />
+			<County text="高港区" code="321203" />
+			<County text="兴化市" code="321281" />
+			<County text="靖江市" code="321282" />
+			<County text="泰兴市" code="321283" />
+			<County text="姜堰市" code="321284" />
+		</City>
+		<City text="宿迁市" code="321300">
+			<County text="市辖区" code="321301" />
+			<County text="宿城区" code="321302" />
+			<County text="宿豫区" code="321311" />
+			<County text="沭阳县" code="321322" />
+			<County text="泗阳县" code="321323" />
+			<County text="泗洪县" code="321324" />
+		</City>
+	</Province>
+	<Province text="浙江省" code="330000">
+		<City text="杭州市" code="330100">
+			<County text="市辖区" code="330101" />
+			<County text="上城区" code="330102" />
+			<County text="下城区" code="330103" />
+			<County text="江干区" code="330104" />
+			<County text="拱墅区" code="330105" />
+			<County text="西湖区" code="330106" />
+			<County text="滨江区" code="330108" />
+			<County text="萧山区" code="330109" />
+			<County text="余杭区" code="330110" />
+			<County text="桐庐县" code="330122" />
+			<County text="淳安县" code="330127" />
+			<County text="建德市" code="330182" />
+			<County text="富阳市" code="330183" />
+			<County text="临安市" code="330185" />
+		</City>
+		<City text="宁波市" code="330200">
+			<County text="市辖区" code="330201" />
+			<County text="海曙区" code="330203" />
+			<County text="江东区" code="330204" />
+			<County text="江北区" code="330205" />
+			<County text="北仑区" code="330206" />
+			<County text="镇海区" code="330211" />
+			<County text="鄞州区" code="330212" />
+			<County text="象山县" code="330225" />
+			<County text="宁海县" code="330226" />
+			<County text="余姚市" code="330281" />
+			<County text="慈溪市" code="330282" />
+			<County text="奉化市" code="330283" />
+		</City>
+		<City text="温州市" code="330300">
+			<County text="市辖区" code="330301" />
+			<County text="鹿城区" code="330302" />
+			<County text="龙湾区" code="330303" />
+			<County text="瓯海区" code="330304" />
+			<County text="洞头县" code="330322" />
+			<County text="永嘉县" code="330324" />
+			<County text="平阳县" code="330326" />
+			<County text="苍南县" code="330327" />
+			<County text="文成县" code="330328" />
+			<County text="泰顺县" code="330329" />
+			<County text="瑞安市" code="330381" />
+			<County text="乐清市" code="330382" />
+		</City>
+		<City text="嘉兴市" code="330400">
+			<County text="市辖区" code="330401" />
+			<County text="南湖区" code="330402" />
+			<County text="秀洲区" code="330411" />
+			<County text="嘉善县" code="330421" />
+			<County text="海盐县" code="330424" />
+			<County text="海宁市" code="330481" />
+			<County text="平湖市" code="330482" />
+			<County text="桐乡市" code="330483" />
+		</City>
+		<City text="湖州市" code="330500">
+			<County text="市辖区" code="330501" />
+			<County text="吴兴区" code="330502" />
+			<County text="南浔区" code="330503" />
+			<County text="德清县" code="330521" />
+			<County text="长兴县" code="330522" />
+			<County text="安吉县" code="330523" />
+		</City>
+		<City text="绍兴市" code="330600">
+			<County text="市辖区" code="330601" />
+			<County text="越城区" code="330602" />
+			<County text="绍兴县" code="330621" />
+			<County text="新昌县" code="330624" />
+			<County text="诸暨市" code="330681" />
+			<County text="上虞市" code="330682" />
+			<County text="嵊州市" code="330683" />
+		</City>
+		<City text="金华市" code="330700">
+			<County text="市辖区" code="330701" />
+			<County text="婺城区" code="330702" />
+			<County text="金东区" code="330703" />
+			<County text="武义县" code="330723" />
+			<County text="浦江县" code="330726" />
+			<County text="磐安县" code="330727" />
+			<County text="兰溪市" code="330781" />
+			<County text="义乌市" code="330782" />
+			<County text="东阳市" code="330783" />
+			<County text="永康市" code="330784" />
+		</City>
+		<City text="衢州市" code="330800">
+			<County text="市辖区" code="330801" />
+			<County text="柯城区" code="330802" />
+			<County text="衢江区" code="330803" />
+			<County text="常山县" code="330822" />
+			<County text="开化县" code="330824" />
+			<County text="龙游县" code="330825" />
+			<County text="江山市" code="330881" />
+		</City>
+		<City text="舟山市" code="330900">
+			<County text="市辖区" code="330901" />
+			<County text="定海区" code="330902" />
+			<County text="普陀区" code="330903" />
+			<County text="岱山县" code="330921" />
+			<County text="嵊泗县" code="330922" />
+		</City>
+		<City text="台州市" code="331000">
+			<County text="市辖区" code="331001" />
+			<County text="椒江区" code="331002" />
+			<County text="黄岩区" code="331003" />
+			<County text="路桥区" code="331004" />
+			<County text="玉环县" code="331021" />
+			<County text="三门县" code="331022" />
+			<County text="天台县" code="331023" />
+			<County text="仙居县" code="331024" />
+			<County text="温岭市" code="331081" />
+			<County text="临海市" code="331082" />
+		</City>
+		<City text="丽水市" code="331100">
+			<County text="市辖区" code="331101" />
+			<County text="莲都区" code="331102" />
+			<County text="青田县" code="331121" />
+			<County text="缙云县" code="331122" />
+			<County text="遂昌县" code="331123" />
+			<County text="松阳县" code="331124" />
+			<County text="云和县" code="331125" />
+			<County text="庆元县" code="331126" />
+			<County text="景宁畲族自治县" code="331127" />
+			<County text="龙泉市" code="331181" />
+		</City>
+	</Province>
+	<Province text="安徽省" code="340000">
+		<City text="合肥市" code="340100">
+			<County text="市辖区" code="340101" />
+			<County text="瑶海区" code="340102" />
+			<County text="庐阳区" code="340103" />
+			<County text="蜀山区" code="340104" />
+			<County text="包河区" code="340111" />
+			<County text="长丰县" code="340121" />
+			<County text="肥东县" code="340122" />
+			<County text="肥西县" code="340123" />
+			<County text="庐江县" code="340124" />
+			<County text="巢湖市" code="340181" />
+		</City>
+		<City text="芜湖市" code="340200">
+			<County text="市辖区" code="340201" />
+			<County text="镜湖区" code="340202" />
+			<County text="弋江区" code="340203" />
+			<County text="鸠江区" code="340207" />
+			<County text="三山区" code="340208" />
+			<County text="芜湖县" code="340221" />
+			<County text="繁昌县" code="340222" />
+			<County text="南陵县" code="340223" />
+			<County text="无为县" code="340225" />
+		</City>
+		<City text="蚌埠市" code="340300">
+			<County text="市辖区" code="340301" />
+			<County text="龙子湖区" code="340302" />
+			<County text="蚌山区" code="340303" />
+			<County text="禹会区" code="340304" />
+			<County text="淮上区" code="340311" />
+			<County text="怀远县" code="340321" />
+			<County text="五河县" code="340322" />
+			<County text="固镇县" code="340323" />
+		</City>
+		<City text="淮南市" code="340400">
+			<County text="市辖区" code="340401" />
+			<County text="大通区" code="340402" />
+			<County text="田家庵区" code="340403" />
+			<County text="谢家集区" code="340404" />
+			<County text="八公山区" code="340405" />
+			<County text="潘集区" code="340406" />
+			<County text="凤台县" code="340421" />
+		</City>
+		<City text="马鞍山市" code="340500">
+			<County text="市辖区" code="340501" />
+			<County text="花山区" code="340503" />
+			<County text="雨山区" code="340504" />
+			<County text="博望区" code="340506" />
+			<County text="当涂县" code="340521" />
+			<County text="含山县" code="340522" />
+			<County text="和县" code="340523" />
+		</City>
+		<City text="淮北市" code="340600">
+			<County text="市辖区" code="340601" />
+			<County text="杜集区" code="340602" />
+			<County text="相山区" code="340603" />
+			<County text="烈山区" code="340604" />
+			<County text="濉溪县" code="340621" />
+		</City>
+		<City text="铜陵市" code="340700">
+			<County text="市辖区" code="340701" />
+			<County text="铜官山区" code="340702" />
+			<County text="狮子山区" code="340703" />
+			<County text="郊区" code="340711" />
+			<County text="铜陵县" code="340721" />
+		</City>
+		<City text="安庆市" code="340800">
+			<County text="市辖区" code="340801" />
+			<County text="迎江区" code="340802" />
+			<County text="大观区" code="340803" />
+			<County text="宜秀区" code="340811" />
+			<County text="怀宁县" code="340822" />
+			<County text="枞阳县" code="340823" />
+			<County text="潜山县" code="340824" />
+			<County text="太湖县" code="340825" />
+			<County text="宿松县" code="340826" />
+			<County text="望江县" code="340827" />
+			<County text="岳西县" code="340828" />
+			<County text="桐城市" code="340881" />
+		</City>
+		<City text="黄山市" code="341000">
+			<County text="市辖区" code="341001" />
+			<County text="屯溪区" code="341002" />
+			<County text="黄山区" code="341003" />
+			<County text="徽州区" code="341004" />
+			<County text="歙县" code="341021" />
+			<County text="休宁县" code="341022" />
+			<County text="黟县" code="341023" />
+			<County text="祁门县" code="341024" />
+		</City>
+		<City text="滁州市" code="341100">
+			<County text="市辖区" code="341101" />
+			<County text="琅琊区" code="341102" />
+			<County text="南谯区" code="341103" />
+			<County text="来安县" code="341122" />
+			<County text="全椒县" code="341124" />
+			<County text="定远县" code="341125" />
+			<County text="凤阳县" code="341126" />
+			<County text="天长市" code="341181" />
+			<County text="明光市" code="341182" />
+		</City>
+		<City text="阜阳市" code="341200">
+			<County text="市辖区" code="341201" />
+			<County text="颍州区" code="341202" />
+			<County text="颍东区" code="341203" />
+			<County text="颍泉区" code="341204" />
+			<County text="临泉县" code="341221" />
+			<County text="太和县" code="341222" />
+			<County text="阜南县" code="341225" />
+			<County text="颍上县" code="341226" />
+			<County text="界首市" code="341282" />
+		</City>
+		<City text="宿州市" code="341300">
+			<County text="市辖区" code="341301" />
+			<County text="埇桥区" code="341302" />
+			<County text="砀山县" code="341321" />
+			<County text="萧县" code="341322" />
+			<County text="灵璧县" code="341323" />
+			<County text="泗县" code="341324" />
+		</City>
+		<City text="六安市" code="341500">
+			<County text="市辖区" code="341501" />
+			<County text="金安区" code="341502" />
+			<County text="裕安区" code="341503" />
+			<County text="寿县" code="341521" />
+			<County text="霍邱县" code="341522" />
+			<County text="舒城县" code="341523" />
+			<County text="金寨县" code="341524" />
+			<County text="霍山县" code="341525" />
+		</City>
+		<City text="亳州市" code="341600">
+			<County text="市辖区" code="341601" />
+			<County text="谯城区" code="341602" />
+			<County text="涡阳县" code="341621" />
+			<County text="蒙城县" code="341622" />
+			<County text="利辛县" code="341623" />
+		</City>
+		<City text="池州市" code="341700">
+			<County text="市辖区" code="341701" />
+			<County text="贵池区" code="341702" />
+			<County text="东至县" code="341721" />
+			<County text="石台县" code="341722" />
+			<County text="青阳县" code="341723" />
+		</City>
+		<City text="宣城市" code="341800">
+			<County text="市辖区" code="341801" />
+			<County text="宣州区" code="341802" />
+			<County text="郎溪县" code="341821" />
+			<County text="广德县" code="341822" />
+			<County text="泾县" code="341823" />
+			<County text="绩溪县" code="341824" />
+			<County text="旌德县" code="341825" />
+			<County text="宁国市" code="341881" />
+		</City>
+	</Province>
+	<Province text="福建省" code="350000">
+		<City text="福州市" code="350100">
+			<County text="市辖区" code="350101" />
+			<County text="鼓楼区" code="350102" />
+			<County text="台江区" code="350103" />
+			<County text="仓山区" code="350104" />
+			<County text="马尾区" code="350105" />
+			<County text="晋安区" code="350111" />
+			<County text="闽侯县" code="350121" />
+			<County text="连江县" code="350122" />
+			<County text="罗源县" code="350123" />
+			<County text="闽清县" code="350124" />
+			<County text="永泰县" code="350125" />
+			<County text="平潭县" code="350128" />
+			<County text="福清市" code="350181" />
+			<County text="长乐市" code="350182" />
+		</City>
+		<City text="厦门市" code="350200">
+			<County text="市辖区" code="350201" />
+			<County text="思明区" code="350203" />
+			<County text="海沧区" code="350205" />
+			<County text="湖里区" code="350206" />
+			<County text="集美区" code="350211" />
+			<County text="同安区" code="350212" />
+			<County text="翔安区" code="350213" />
+		</City>
+		<City text="莆田市" code="350300">
+			<County text="市辖区" code="350301" />
+			<County text="城厢区" code="350302" />
+			<County text="涵江区" code="350303" />
+			<County text="荔城区" code="350304" />
+			<County text="秀屿区" code="350305" />
+			<County text="仙游县" code="350322" />
+		</City>
+		<City text="三明市" code="350400">
+			<County text="市辖区" code="350401" />
+			<County text="梅列区" code="350402" />
+			<County text="三元区" code="350403" />
+			<County text="明溪县" code="350421" />
+			<County text="清流县" code="350423" />
+			<County text="宁化县" code="350424" />
+			<County text="大田县" code="350425" />
+			<County text="尤溪县" code="350426" />
+			<County text="沙县" code="350427" />
+			<County text="将乐县" code="350428" />
+			<County text="泰宁县" code="350429" />
+			<County text="建宁县" code="350430" />
+			<County text="永安市" code="350481" />
+		</City>
+		<City text="泉州市" code="350500">
+			<County text="市辖区" code="350501" />
+			<County text="鲤城区" code="350502" />
+			<County text="丰泽区" code="350503" />
+			<County text="洛江区" code="350504" />
+			<County text="泉港区" code="350505" />
+			<County text="惠安县" code="350521" />
+			<County text="安溪县" code="350524" />
+			<County text="永春县" code="350525" />
+			<County text="德化县" code="350526" />
+			<County text="金门县" code="350527" />
+			<County text="石狮市" code="350581" />
+			<County text="晋江市" code="350582" />
+			<County text="南安市" code="350583" />
+		</City>
+		<City text="漳州市" code="350600">
+			<County text="市辖区" code="350601" />
+			<County text="芗城区" code="350602" />
+			<County text="龙文区" code="350603" />
+			<County text="云霄县" code="350622" />
+			<County text="漳浦县" code="350623" />
+			<County text="诏安县" code="350624" />
+			<County text="长泰县" code="350625" />
+			<County text="东山县" code="350626" />
+			<County text="南靖县" code="350627" />
+			<County text="平和县" code="350628" />
+			<County text="华安县" code="350629" />
+			<County text="龙海市" code="350681" />
+		</City>
+		<City text="南平市" code="350700">
+			<County text="市辖区" code="350701" />
+			<County text="延平区" code="350702" />
+			<County text="顺昌县" code="350721" />
+			<County text="浦城县" code="350722" />
+			<County text="光泽县" code="350723" />
+			<County text="松溪县" code="350724" />
+			<County text="政和县" code="350725" />
+			<County text="邵武市" code="350781" />
+			<County text="武夷山市" code="350782" />
+			<County text="建瓯市" code="350783" />
+			<County text="建阳市" code="350784" />
+		</City>
+		<City text="龙岩市" code="350800">
+			<County text="市辖区" code="350801" />
+			<County text="新罗区" code="350802" />
+			<County text="长汀县" code="350821" />
+			<County text="永定县" code="350822" />
+			<County text="上杭县" code="350823" />
+			<County text="武平县" code="350824" />
+			<County text="连城县" code="350825" />
+			<County text="漳平市" code="350881" />
+		</City>
+		<City text="宁德市" code="350900">
+			<County text="市辖区" code="350901" />
+			<County text="蕉城区" code="350902" />
+			<County text="霞浦县" code="350921" />
+			<County text="古田县" code="350922" />
+			<County text="屏南县" code="350923" />
+			<County text="寿宁县" code="350924" />
+			<County text="周宁县" code="350925" />
+			<County text="柘荣县" code="350926" />
+			<County text="福安市" code="350981" />
+			<County text="福鼎市" code="350982" />
+		</City>
+	</Province>
+	<Province text="江西省" code="360000">
+		<City text="南昌市" code="360100">
+			<County text="市辖区" code="360101" />
+			<County text="东湖区" code="360102" />
+			<County text="西湖区" code="360103" />
+			<County text="青云谱区" code="360104" />
+			<County text="湾里区" code="360105" />
+			<County text="青山湖区" code="360111" />
+			<County text="南昌县" code="360121" />
+			<County text="新建县" code="360122" />
+			<County text="安义县" code="360123" />
+			<County text="进贤县" code="360124" />
+		</City>
+		<City text="景德镇市" code="360200">
+			<County text="市辖区" code="360201" />
+			<County text="昌江区" code="360202" />
+			<County text="珠山区" code="360203" />
+			<County text="浮梁县" code="360222" />
+			<County text="乐平市" code="360281" />
+		</City>
+		<City text="萍乡市" code="360300">
+			<County text="市辖区" code="360301" />
+			<County text="安源区" code="360302" />
+			<County text="湘东区" code="360313" />
+			<County text="莲花县" code="360321" />
+			<County text="上栗县" code="360322" />
+			<County text="芦溪县" code="360323" />
+		</City>
+		<City text="九江市" code="360400">
+			<County text="市辖区" code="360401" />
+			<County text="庐山区" code="360402" />
+			<County text="浔阳区" code="360403" />
+			<County text="九江县" code="360421" />
+			<County text="武宁县" code="360423" />
+			<County text="修水县" code="360424" />
+			<County text="永修县" code="360425" />
+			<County text="德安县" code="360426" />
+			<County text="星子县" code="360427" />
+			<County text="都昌县" code="360428" />
+			<County text="湖口县" code="360429" />
+			<County text="彭泽县" code="360430" />
+			<County text="瑞昌市" code="360481" />
+			<County text="共青城市" code="360482" />
+		</City>
+		<City text="新余市" code="360500">
+			<County text="市辖区" code="360501" />
+			<County text="渝水区" code="360502" />
+			<County text="分宜县" code="360521" />
+		</City>
+		<City text="鹰潭市" code="360600">
+			<County text="市辖区" code="360601" />
+			<County text="月湖区" code="360602" />
+			<County text="余江县" code="360622" />
+			<County text="贵溪市" code="360681" />
+		</City>
+		<City text="赣州市" code="360700">
+			<County text="市辖区" code="360701" />
+			<County text="章贡区" code="360702" />
+			<County text="赣县" code="360721" />
+			<County text="信丰县" code="360722" />
+			<County text="大余县" code="360723" />
+			<County text="上犹县" code="360724" />
+			<County text="崇义县" code="360725" />
+			<County text="安远县" code="360726" />
+			<County text="龙南县" code="360727" />
+			<County text="定南县" code="360728" />
+			<County text="全南县" code="360729" />
+			<County text="宁都县" code="360730" />
+			<County text="于都县" code="360731" />
+			<County text="兴国县" code="360732" />
+			<County text="会昌县" code="360733" />
+			<County text="寻乌县" code="360734" />
+			<County text="石城县" code="360735" />
+			<County text="瑞金市" code="360781" />
+			<County text="南康市" code="360782" />
+		</City>
+		<City text="吉安市" code="360800">
+			<County text="市辖区" code="360801" />
+			<County text="吉州区" code="360802" />
+			<County text="青原区" code="360803" />
+			<County text="吉安县" code="360821" />
+			<County text="吉水县" code="360822" />
+			<County text="峡江县" code="360823" />
+			<County text="新干县" code="360824" />
+			<County text="永丰县" code="360825" />
+			<County text="泰和县" code="360826" />
+			<County text="遂川县" code="360827" />
+			<County text="万安县" code="360828" />
+			<County text="安福县" code="360829" />
+			<County text="永新县" code="360830" />
+			<County text="井冈山市" code="360881" />
+		</City>
+		<City text="宜春市" code="360900">
+			<County text="市辖区" code="360901" />
+			<County text="袁州区" code="360902" />
+			<County text="奉新县" code="360921" />
+			<County text="万载县" code="360922" />
+			<County text="上高县" code="360923" />
+			<County text="宜丰县" code="360924" />
+			<County text="靖安县" code="360925" />
+			<County text="铜鼓县" code="360926" />
+			<County text="丰城市" code="360981" />
+			<County text="樟树市" code="360982" />
+			<County text="高安市" code="360983" />
+		</City>
+		<City text="抚州市" code="361000">
+			<County text="市辖区" code="361001" />
+			<County text="临川区" code="361002" />
+			<County text="南城县" code="361021" />
+			<County text="黎川县" code="361022" />
+			<County text="南丰县" code="361023" />
+			<County text="崇仁县" code="361024" />
+			<County text="乐安县" code="361025" />
+			<County text="宜黄县" code="361026" />
+			<County text="金溪县" code="361027" />
+			<County text="资溪县" code="361028" />
+			<County text="东乡县" code="361029" />
+			<County text="广昌县" code="361030" />
+		</City>
+		<City text="上饶市" code="361100">
+			<County text="市辖区" code="361101" />
+			<County text="信州区" code="361102" />
+			<County text="上饶县" code="361121" />
+			<County text="广丰县" code="361122" />
+			<County text="玉山县" code="361123" />
+			<County text="铅山县" code="361124" />
+			<County text="横峰县" code="361125" />
+			<County text="弋阳县" code="361126" />
+			<County text="余干县" code="361127" />
+			<County text="鄱阳县" code="361128" />
+			<County text="万年县" code="361129" />
+			<County text="婺源县" code="361130" />
+			<County text="德兴市" code="361181" />
+		</City>
+	</Province>
+	<Province text="山东省" code="370000">
+		<City text="济南市" code="370100">
+			<County text="市辖区" code="370101" />
+			<County text="历下区" code="370102" />
+			<County text="市中区" code="370103" />
+			<County text="槐荫区" code="370104" />
+			<County text="天桥区" code="370105" />
+			<County text="历城区" code="370112" />
+			<County text="长清区" code="370113" />
+			<County text="平阴县" code="370124" />
+			<County text="济阳县" code="370125" />
+			<County text="商河县" code="370126" />
+			<County text="章丘市" code="370181" />
+		</City>
+		<City text="青岛市" code="370200">
+			<County text="市辖区" code="370201" />
+			<County text="市南区" code="370202" />
+			<County text="市北区" code="370203" />
+			<County text="四方区" code="370205" />
+			<County text="黄岛区" code="370211" />
+			<County text="崂山区" code="370212" />
+			<County text="李沧区" code="370213" />
+			<County text="城阳区" code="370214" />
+			<County text="胶州市" code="370281" />
+			<County text="即墨市" code="370282" />
+			<County text="平度市" code="370283" />
+			<County text="胶南市" code="370284" />
+			<County text="莱西市" code="370285" />
+		</City>
+		<City text="淄博市" code="370300">
+			<County text="市辖区" code="370301" />
+			<County text="淄川区" code="370302" />
+			<County text="张店区" code="370303" />
+			<County text="博山区" code="370304" />
+			<County text="临淄区" code="370305" />
+			<County text="周村区" code="370306" />
+			<County text="桓台县" code="370321" />
+			<County text="高青县" code="370322" />
+			<County text="沂源县" code="370323" />
+		</City>
+		<City text="枣庄市" code="370400">
+			<County text="市辖区" code="370401" />
+			<County text="市中区" code="370402" />
+			<County text="薛城区" code="370403" />
+			<County text="峄城区" code="370404" />
+			<County text="台儿庄区" code="370405" />
+			<County text="山亭区" code="370406" />
+			<County text="滕州市" code="370481" />
+		</City>
+		<City text="东营市" code="370500">
+			<County text="市辖区" code="370501" />
+			<County text="东营区" code="370502" />
+			<County text="河口区" code="370503" />
+			<County text="垦利县" code="370521" />
+			<County text="利津县" code="370522" />
+			<County text="广饶县" code="370523" />
+		</City>
+		<City text="烟台市" code="370600">
+			<County text="市辖区" code="370601" />
+			<County text="芝罘区" code="370602" />
+			<County text="福山区" code="370611" />
+			<County text="牟平区" code="370612" />
+			<County text="莱山区" code="370613" />
+			<County text="长岛县" code="370634" />
+			<County text="龙口市" code="370681" />
+			<County text="莱阳市" code="370682" />
+			<County text="莱州市" code="370683" />
+			<County text="蓬莱市" code="370684" />
+			<County text="招远市" code="370685" />
+			<County text="栖霞市" code="370686" />
+			<County text="海阳市" code="370687" />
+		</City>
+		<City text="潍坊市" code="370700">
+			<County text="市辖区" code="370701" />
+			<County text="潍城区" code="370702" />
+			<County text="寒亭区" code="370703" />
+			<County text="坊子区" code="370704" />
+			<County text="奎文区" code="370705" />
+			<County text="临朐县" code="370724" />
+			<County text="昌乐县" code="370725" />
+			<County text="青州市" code="370781" />
+			<County text="诸城市" code="370782" />
+			<County text="寿光市" code="370783" />
+			<County text="安丘市" code="370784" />
+			<County text="高密市" code="370785" />
+			<County text="昌邑市" code="370786" />
+		</City>
+		<City text="济宁市" code="370800">
+			<County text="市辖区" code="370801" />
+			<County text="市中区" code="370802" />
+			<County text="任城区" code="370811" />
+			<County text="微山县" code="370826" />
+			<County text="鱼台县" code="370827" />
+			<County text="金乡县" code="370828" />
+			<County text="嘉祥县" code="370829" />
+			<County text="汶上县" code="370830" />
+			<County text="泗水县" code="370831" />
+			<County text="梁山县" code="370832" />
+			<County text="曲阜市" code="370881" />
+			<County text="兖州市" code="370882" />
+			<County text="邹城市" code="370883" />
+		</City>
+		<City text="泰安市" code="370900">
+			<County text="市辖区" code="370901" />
+			<County text="泰山区" code="370902" />
+			<County text="岱岳区" code="370911" />
+			<County text="宁阳县" code="370921" />
+			<County text="东平县" code="370923" />
+			<County text="新泰市" code="370982" />
+			<County text="肥城市" code="370983" />
+		</City>
+		<City text="威海市" code="371000">
+			<County text="市辖区" code="371001" />
+			<County text="环翠区" code="371002" />
+			<County text="文登市" code="371081" />
+			<County text="荣成市" code="371082" />
+			<County text="乳山市" code="371083" />
+		</City>
+		<City text="日照市" code="371100">
+			<County text="市辖区" code="371101" />
+			<County text="东港区" code="371102" />
+			<County text="岚山区" code="371103" />
+			<County text="五莲县" code="371121" />
+			<County text="莒县" code="371122" />
+		</City>
+		<City text="莱芜市" code="371200">
+			<County text="市辖区" code="371201" />
+			<County text="莱城区" code="371202" />
+			<County text="钢城区" code="371203" />
+		</City>
+		<City text="临沂市" code="371300">
+			<County text="市辖区" code="371301" />
+			<County text="兰山区" code="371302" />
+			<County text="罗庄区" code="371311" />
+			<County text="河东区" code="371312" />
+			<County text="沂南县" code="371321" />
+			<County text="郯城县" code="371322" />
+			<County text="沂水县" code="371323" />
+			<County text="苍山县" code="371324" />
+			<County text="费县" code="371325" />
+			<County text="平邑县" code="371326" />
+			<County text="莒南县" code="371327" />
+			<County text="蒙阴县" code="371328" />
+			<County text="临沭县" code="371329" />
+		</City>
+		<City text="德州市" code="371400">
+			<County text="市辖区" code="371401" />
+			<County text="德城区" code="371402" />
+			<County text="陵县" code="371421" />
+			<County text="宁津县" code="371422" />
+			<County text="庆云县" code="371423" />
+			<County text="临邑县" code="371424" />
+			<County text="齐河县" code="371425" />
+			<County text="平原县" code="371426" />
+			<County text="夏津县" code="371427" />
+			<County text="武城县" code="371428" />
+			<County text="乐陵市" code="371481" />
+			<County text="禹城市" code="371482" />
+		</City>
+		<City text="聊城市" code="371500">
+			<County text="市辖区" code="371501" />
+			<County text="东昌府区" code="371502" />
+			<County text="阳谷县" code="371521" />
+			<County text="莘县" code="371522" />
+			<County text="茌平县" code="371523" />
+			<County text="东阿县" code="371524" />
+			<County text="冠县" code="371525" />
+			<County text="高唐县" code="371526" />
+			<County text="临清市" code="371581" />
+		</City>
+		<City text="滨州市" code="371600">
+			<County text="市辖区" code="371601" />
+			<County text="滨城区" code="371602" />
+			<County text="惠民县" code="371621" />
+			<County text="阳信县" code="371622" />
+			<County text="无棣县" code="371623" />
+			<County text="沾化县" code="371624" />
+			<County text="博兴县" code="371625" />
+			<County text="邹平县" code="371626" />
+		</City>
+		<City text="菏泽市" code="371700">
+			<County text="市辖区" code="371701" />
+			<County text="牡丹区" code="371702" />
+			<County text="曹县" code="371721" />
+			<County text="单县" code="371722" />
+			<County text="成武县" code="371723" />
+			<County text="巨野县" code="371724" />
+			<County text="郓城县" code="371725" />
+			<County text="鄄城县" code="371726" />
+			<County text="定陶县" code="371727" />
+			<County text="东明县" code="371728" />
+		</City>
+	</Province>
+	<Province text="河南省" code="410000">
+		<City text="郑州市" code="410100">
+			<County text="市辖区" code="410101" />
+			<County text="中原区" code="410102" />
+			<County text="二七区" code="410103" />
+			<County text="管城回族区" code="410104" />
+			<County text="金水区" code="410105" />
+			<County text="上街区" code="410106" />
+			<County text="惠济区" code="410108" />
+			<County text="中牟县" code="410122" />
+			<County text="巩义市" code="410181" />
+			<County text="荥阳市" code="410182" />
+			<County text="新密市" code="410183" />
+			<County text="新郑市" code="410184" />
+			<County text="登封市" code="410185" />
+		</City>
+		<City text="开封市" code="410200">
+			<County text="市辖区" code="410201" />
+			<County text="龙亭区" code="410202" />
+			<County text="顺河回族区" code="410203" />
+			<County text="鼓楼区" code="410204" />
+			<County text="禹王台区" code="410205" />
+			<County text="金明区" code="410211" />
+			<County text="杞县" code="410221" />
+			<County text="通许县" code="410222" />
+			<County text="尉氏县" code="410223" />
+			<County text="开封县" code="410224" />
+			<County text="兰考县" code="410225" />
+		</City>
+		<City text="洛阳市" code="410300">
+			<County text="市辖区" code="410301" />
+			<County text="老城区" code="410302" />
+			<County text="西工区" code="410303" />
+			<County text="瀍河回族区" code="410304" />
+			<County text="涧西区" code="410305" />
+			<County text="吉利区" code="410306" />
+			<County text="洛龙区" code="410311" />
+			<County text="孟津县" code="410322" />
+			<County text="新安县" code="410323" />
+			<County text="栾川县" code="410324" />
+			<County text="嵩县" code="410325" />
+			<County text="汝阳县" code="410326" />
+			<County text="宜阳县" code="410327" />
+			<County text="洛宁县" code="410328" />
+			<County text="伊川县" code="410329" />
+			<County text="偃师市" code="410381" />
+		</City>
+		<City text="平顶山市" code="410400">
+			<County text="市辖区" code="410401" />
+			<County text="新华区" code="410402" />
+			<County text="卫东区" code="410403" />
+			<County text="石龙区" code="410404" />
+			<County text="湛河区" code="410411" />
+			<County text="宝丰县" code="410421" />
+			<County text="叶县" code="410422" />
+			<County text="鲁山县" code="410423" />
+			<County text="郏县" code="410425" />
+			<County text="舞钢市" code="410481" />
+			<County text="汝州市" code="410482" />
+		</City>
+		<City text="安阳市" code="410500">
+			<County text="市辖区" code="410501" />
+			<County text="文峰区" code="410502" />
+			<County text="北关区" code="410503" />
+			<County text="殷都区" code="410505" />
+			<County text="龙安区" code="410506" />
+			<County text="安阳县" code="410522" />
+			<County text="汤阴县" code="410523" />
+			<County text="滑县" code="410526" />
+			<County text="内黄县" code="410527" />
+			<County text="林州市" code="410581" />
+		</City>
+		<City text="鹤壁市" code="410600">
+			<County text="市辖区" code="410601" />
+			<County text="鹤山区" code="410602" />
+			<County text="山城区" code="410603" />
+			<County text="淇滨区" code="410611" />
+			<County text="浚县" code="410621" />
+			<County text="淇县" code="410622" />
+		</City>
+		<City text="新乡市" code="410700">
+			<County text="市辖区" code="410701" />
+			<County text="红旗区" code="410702" />
+			<County text="卫滨区" code="410703" />
+			<County text="凤泉区" code="410704" />
+			<County text="牧野区" code="410711" />
+			<County text="新乡县" code="410721" />
+			<County text="获嘉县" code="410724" />
+			<County text="原阳县" code="410725" />
+			<County text="延津县" code="410726" />
+			<County text="封丘县" code="410727" />
+			<County text="长垣县" code="410728" />
+			<County text="卫辉市" code="410781" />
+			<County text="辉县市" code="410782" />
+		</City>
+		<City text="焦作市" code="410800">
+			<County text="市辖区" code="410801" />
+			<County text="解放区" code="410802" />
+			<County text="中站区" code="410803" />
+			<County text="马村区" code="410804" />
+			<County text="山阳区" code="410811" />
+			<County text="修武县" code="410821" />
+			<County text="博爱县" code="410822" />
+			<County text="武陟县" code="410823" />
+			<County text="温县" code="410825" />
+			<County text="沁阳市" code="410882" />
+			<County text="孟州市" code="410883" />
+		</City>
+		<City text="濮阳市" code="410900">
+			<County text="市辖区" code="410901" />
+			<County text="华龙区" code="410902" />
+			<County text="清丰县" code="410922" />
+			<County text="南乐县" code="410923" />
+			<County text="范县" code="410926" />
+			<County text="台前县" code="410927" />
+			<County text="濮阳县" code="410928" />
+		</City>
+		<City text="许昌市" code="411000">
+			<County text="市辖区" code="411001" />
+			<County text="魏都区" code="411002" />
+			<County text="许昌县" code="411023" />
+			<County text="鄢陵县" code="411024" />
+			<County text="襄城县" code="411025" />
+			<County text="禹州市" code="411081" />
+			<County text="长葛市" code="411082" />
+		</City>
+		<City text="漯河市" code="411100">
+			<County text="市辖区" code="411101" />
+			<County text="源汇区" code="411102" />
+			<County text="郾城区" code="411103" />
+			<County text="召陵区" code="411104" />
+			<County text="舞阳县" code="411121" />
+			<County text="临颍县" code="411122" />
+		</City>
+		<City text="三门峡市" code="411200">
+			<County text="市辖区" code="411201" />
+			<County text="湖滨区" code="411202" />
+			<County text="渑池县" code="411221" />
+			<County text="陕县" code="411222" />
+			<County text="卢氏县" code="411224" />
+			<County text="义马市" code="411281" />
+			<County text="灵宝市" code="411282" />
+		</City>
+		<City text="南阳市" code="411300">
+			<County text="市辖区" code="411301" />
+			<County text="宛城区" code="411302" />
+			<County text="卧龙区" code="411303" />
+			<County text="南召县" code="411321" />
+			<County text="方城县" code="411322" />
+			<County text="西峡县" code="411323" />
+			<County text="镇平县" code="411324" />
+			<County text="内乡县" code="411325" />
+			<County text="淅川县" code="411326" />
+			<County text="社旗县" code="411327" />
+			<County text="唐河县" code="411328" />
+			<County text="新野县" code="411329" />
+			<County text="桐柏县" code="411330" />
+			<County text="邓州市" code="411381" />
+		</City>
+		<City text="商丘市" code="411400">
+			<County text="市辖区" code="411401" />
+			<County text="梁园区" code="411402" />
+			<County text="睢阳区" code="411403" />
+			<County text="民权县" code="411421" />
+			<County text="睢县" code="411422" />
+			<County text="宁陵县" code="411423" />
+			<County text="柘城县" code="411424" />
+			<County text="虞城县" code="411425" />
+			<County text="夏邑县" code="411426" />
+			<County text="永城市" code="411481" />
+		</City>
+		<City text="信阳市" code="411500">
+			<County text="市辖区" code="411501" />
+			<County text="浉河区" code="411502" />
+			<County text="平桥区" code="411503" />
+			<County text="罗山县" code="411521" />
+			<County text="光山县" code="411522" />
+			<County text="新县" code="411523" />
+			<County text="商城县" code="411524" />
+			<County text="固始县" code="411525" />
+			<County text="潢川县" code="411526" />
+			<County text="淮滨县" code="411527" />
+			<County text="息县" code="411528" />
+		</City>
+		<City text="周口市" code="411600">
+			<County text="市辖区" code="411601" />
+			<County text="川汇区" code="411602" />
+			<County text="扶沟县" code="411621" />
+			<County text="西华县" code="411622" />
+			<County text="商水县" code="411623" />
+			<County text="沈丘县" code="411624" />
+			<County text="郸城县" code="411625" />
+			<County text="淮阳县" code="411626" />
+			<County text="太康县" code="411627" />
+			<County text="鹿邑县" code="411628" />
+			<County text="项城市" code="411681" />
+		</City>
+		<City text="驻马店市" code="411700">
+			<County text="市辖区" code="411701" />
+			<County text="驿城区" code="411702" />
+			<County text="西平县" code="411721" />
+			<County text="上蔡县" code="411722" />
+			<County text="平舆县" code="411723" />
+			<County text="正阳县" code="411724" />
+			<County text="确山县" code="411725" />
+			<County text="泌阳县" code="411726" />
+			<County text="汝南县" code="411727" />
+			<County text="遂平县" code="411728" />
+			<County text="新蔡县" code="411729" />
+		</City>
+		<City text="省直辖县级行政区划" code="419000">
+			<County text="济源市" code="419001" />
+		</City>
+	</Province>
+	<Province text="湖北省" code="420000">
+		<City text="武汉市" code="420100">
+			<County text="市辖区" code="420101" />
+			<County text="江岸区" code="420102" />
+			<County text="江汉区" code="420103" />
+			<County text="硚口区" code="420104" />
+			<County text="汉阳区" code="420105" />
+			<County text="武昌区" code="420106" />
+			<County text="青山区" code="420107" />
+			<County text="洪山区" code="420111" />
+			<County text="东西湖区" code="420112" />
+			<County text="汉南区" code="420113" />
+			<County text="蔡甸区" code="420114" />
+			<County text="江夏区" code="420115" />
+			<County text="黄陂区" code="420116" />
+			<County text="新洲区" code="420117" />
+		</City>
+		<City text="黄石市" code="420200">
+			<County text="市辖区" code="420201" />
+			<County text="黄石港区" code="420202" />
+			<County text="西塞山区" code="420203" />
+			<County text="下陆区" code="420204" />
+			<County text="铁山区" code="420205" />
+			<County text="阳新县" code="420222" />
+			<County text="大冶市" code="420281" />
+		</City>
+		<City text="十堰市" code="420300">
+			<County text="市辖区" code="420301" />
+			<County text="茅箭区" code="420302" />
+			<County text="张湾区" code="420303" />
+			<County text="郧县" code="420321" />
+			<County text="郧西县" code="420322" />
+			<County text="竹山县" code="420323" />
+			<County text="竹溪县" code="420324" />
+			<County text="房县" code="420325" />
+			<County text="丹江口市" code="420381" />
+		</City>
+		<City text="宜昌市" code="420500">
+			<County text="市辖区" code="420501" />
+			<County text="西陵区" code="420502" />
+			<County text="伍家岗区" code="420503" />
+			<County text="点军区" code="420504" />
+			<County text="猇亭区" code="420505" />
+			<County text="夷陵区" code="420506" />
+			<County text="远安县" code="420525" />
+			<County text="兴山县" code="420526" />
+			<County text="秭归县" code="420527" />
+			<County text="长阳土家族自治县" code="420528" />
+			<County text="五峰土家族自治县" code="420529" />
+			<County text="宜都市" code="420581" />
+			<County text="当阳市" code="420582" />
+			<County text="枝江市" code="420583" />
+		</City>
+		<City text="襄阳市" code="420600">
+			<County text="市辖区" code="420601" />
+			<County text="襄城区" code="420602" />
+			<County text="樊城区" code="420606" />
+			<County text="襄州区" code="420607" />
+			<County text="南漳县" code="420624" />
+			<County text="谷城县" code="420625" />
+			<County text="保康县" code="420626" />
+			<County text="老河口市" code="420682" />
+			<County text="枣阳市" code="420683" />
+			<County text="宜城市" code="420684" />
+		</City>
+		<City text="鄂州市" code="420700">
+			<County text="市辖区" code="420701" />
+			<County text="梁子湖区" code="420702" />
+			<County text="华容区" code="420703" />
+			<County text="鄂城区" code="420704" />
+		</City>
+		<City text="荆门市" code="420800">
+			<County text="市辖区" code="420801" />
+			<County text="东宝区" code="420802" />
+			<County text="掇刀区" code="420804" />
+			<County text="京山县" code="420821" />
+			<County text="沙洋县" code="420822" />
+			<County text="钟祥市" code="420881" />
+		</City>
+		<City text="孝感市" code="420900">
+			<County text="市辖区" code="420901" />
+			<County text="孝南区" code="420902" />
+			<County text="孝昌县" code="420921" />
+			<County text="大悟县" code="420922" />
+			<County text="云梦县" code="420923" />
+			<County text="应城市" code="420981" />
+			<County text="安陆市" code="420982" />
+			<County text="汉川市" code="420984" />
+		</City>
+		<City text="荆州市" code="421000">
+			<County text="市辖区" code="421001" />
+			<County text="沙市区" code="421002" />
+			<County text="荆州区" code="421003" />
+			<County text="公安县" code="421022" />
+			<County text="监利县" code="421023" />
+			<County text="江陵县" code="421024" />
+			<County text="石首市" code="421081" />
+			<County text="洪湖市" code="421083" />
+			<County text="松滋市" code="421087" />
+		</City>
+		<City text="黄冈市" code="421100">
+			<County text="市辖区" code="421101" />
+			<County text="黄州区" code="421102" />
+			<County text="团风县" code="421121" />
+			<County text="红安县" code="421122" />
+			<County text="罗田县" code="421123" />
+			<County text="英山县" code="421124" />
+			<County text="浠水县" code="421125" />
+			<County text="蕲春县" code="421126" />
+			<County text="黄梅县" code="421127" />
+			<County text="麻城市" code="421181" />
+			<County text="武穴市" code="421182" />
+		</City>
+		<City text="咸宁市" code="421200">
+			<County text="市辖区" code="421201" />
+			<County text="咸安区" code="421202" />
+			<County text="嘉鱼县" code="421221" />
+			<County text="通城县" code="421222" />
+			<County text="崇阳县" code="421223" />
+			<County text="通山县" code="421224" />
+			<County text="赤壁市" code="421281" />
+		</City>
+		<City text="随州市" code="421300">
+			<County text="市辖区" code="421301" />
+			<County text="曾都区" code="421303" />
+			<County text="随县" code="421321" />
+			<County text="广水市" code="421381" />
+		</City>
+		<City text="恩施土家族苗族自治州" code="422800">
+			<County text="恩施市" code="422801" />
+			<County text="利川市" code="422802" />
+			<County text="建始县" code="422822" />
+			<County text="巴东县" code="422823" />
+			<County text="宣恩县" code="422825" />
+			<County text="咸丰县" code="422826" />
+			<County text="来凤县" code="422827" />
+			<County text="鹤峰县" code="422828" />
+		</City>
+		<City text="省直辖县级行政区划" code="429000">
+			<County text="仙桃市" code="429004" />
+			<County text="潜江市" code="429005" />
+			<County text="天门市" code="429006" />
+			<County text="神农架林区" code="429021" />
+		</City>
+	</Province>
+	<Province text="湖南省" code="430000">
+		<City text="长沙市" code="430100">
+			<County text="市辖区" code="430101" />
+			<County text="芙蓉区" code="430102" />
+			<County text="天心区" code="430103" />
+			<County text="岳麓区" code="430104" />
+			<County text="开福区" code="430105" />
+			<County text="雨花区" code="430111" />
+			<County text="望城区" code="430112" />
+			<County text="长沙县" code="430121" />
+			<County text="宁乡县" code="430124" />
+			<County text="浏阳市" code="430181" />
+		</City>
+		<City text="株洲市" code="430200">
+			<County text="市辖区" code="430201" />
+			<County text="荷塘区" code="430202" />
+			<County text="芦淞区" code="430203" />
+			<County text="石峰区" code="430204" />
+			<County text="天元区" code="430211" />
+			<County text="株洲县" code="430221" />
+			<County text="攸县" code="430223" />
+			<County text="茶陵县" code="430224" />
+			<County text="炎陵县" code="430225" />
+			<County text="醴陵市" code="430281" />
+		</City>
+		<City text="湘潭市" code="430300">
+			<County text="市辖区" code="430301" />
+			<County text="雨湖区" code="430302" />
+			<County text="岳塘区" code="430304" />
+			<County text="湘潭县" code="430321" />
+			<County text="湘乡市" code="430381" />
+			<County text="韶山市" code="430382" />
+		</City>
+		<City text="衡阳市" code="430400">
+			<County text="市辖区" code="430401" />
+			<County text="珠晖区" code="430405" />
+			<County text="雁峰区" code="430406" />
+			<County text="石鼓区" code="430407" />
+			<County text="蒸湘区" code="430408" />
+			<County text="南岳区" code="430412" />
+			<County text="衡阳县" code="430421" />
+			<County text="衡南县" code="430422" />
+			<County text="衡山县" code="430423" />
+			<County text="衡东县" code="430424" />
+			<County text="祁东县" code="430426" />
+			<County text="耒阳市" code="430481" />
+			<County text="常宁市" code="430482" />
+		</City>
+		<City text="邵阳市" code="430500">
+			<County text="市辖区" code="430501" />
+			<County text="双清区" code="430502" />
+			<County text="大祥区" code="430503" />
+			<County text="北塔区" code="430511" />
+			<County text="邵东县" code="430521" />
+			<County text="新邵县" code="430522" />
+			<County text="邵阳县" code="430523" />
+			<County text="隆回县" code="430524" />
+			<County text="洞口县" code="430525" />
+			<County text="绥宁县" code="430527" />
+			<County text="新宁县" code="430528" />
+			<County text="城步苗族自治县" code="430529" />
+			<County text="武冈市" code="430581" />
+		</City>
+		<City text="岳阳市" code="430600">
+			<County text="市辖区" code="430601" />
+			<County text="岳阳楼区" code="430602" />
+			<County text="云溪区" code="430603" />
+			<County text="君山区" code="430611" />
+			<County text="岳阳县" code="430621" />
+			<County text="华容县" code="430623" />
+			<County text="湘阴县" code="430624" />
+			<County text="平江县" code="430626" />
+			<County text="汨罗市" code="430681" />
+			<County text="临湘市" code="430682" />
+		</City>
+		<City text="常德市" code="430700">
+			<County text="市辖区" code="430701" />
+			<County text="武陵区" code="430702" />
+			<County text="鼎城区" code="430703" />
+			<County text="安乡县" code="430721" />
+			<County text="汉寿县" code="430722" />
+			<County text="澧县" code="430723" />
+			<County text="临澧县" code="430724" />
+			<County text="桃源县" code="430725" />
+			<County text="石门县" code="430726" />
+			<County text="津市市" code="430781" />
+		</City>
+		<City text="张家界市" code="430800">
+			<County text="市辖区" code="430801" />
+			<County text="永定区" code="430802" />
+			<County text="武陵源区" code="430811" />
+			<County text="慈利县" code="430821" />
+			<County text="桑植县" code="430822" />
+		</City>
+		<City text="益阳市" code="430900">
+			<County text="市辖区" code="430901" />
+			<County text="资阳区" code="430902" />
+			<County text="赫山区" code="430903" />
+			<County text="南县" code="430921" />
+			<County text="桃江县" code="430922" />
+			<County text="安化县" code="430923" />
+			<County text="沅江市" code="430981" />
+		</City>
+		<City text="郴州市" code="431000">
+			<County text="市辖区" code="431001" />
+			<County text="北湖区" code="431002" />
+			<County text="苏仙区" code="431003" />
+			<County text="桂阳县" code="431021" />
+			<County text="宜章县" code="431022" />
+			<County text="永兴县" code="431023" />
+			<County text="嘉禾县" code="431024" />
+			<County text="临武县" code="431025" />
+			<County text="汝城县" code="431026" />
+			<County text="桂东县" code="431027" />
+			<County text="安仁县" code="431028" />
+			<County text="资兴市" code="431081" />
+		</City>
+		<City text="永州市" code="431100">
+			<County text="市辖区" code="431101" />
+			<County text="零陵区" code="431102" />
+			<County text="冷水滩区" code="431103" />
+			<County text="祁阳县" code="431121" />
+			<County text="东安县" code="431122" />
+			<County text="双牌县" code="431123" />
+			<County text="道县" code="431124" />
+			<County text="江永县" code="431125" />
+			<County text="宁远县" code="431126" />
+			<County text="蓝山县" code="431127" />
+			<County text="新田县" code="431128" />
+			<County text="江华瑶族自治县" code="431129" />
+		</City>
+		<City text="怀化市" code="431200">
+			<County text="市辖区" code="431201" />
+			<County text="鹤城区" code="431202" />
+			<County text="中方县" code="431221" />
+			<County text="沅陵县" code="431222" />
+			<County text="辰溪县" code="431223" />
+			<County text="溆浦县" code="431224" />
+			<County text="会同县" code="431225" />
+			<County text="麻阳苗族自治县" code="431226" />
+			<County text="新晃侗族自治县" code="431227" />
+			<County text="芷江侗族自治县" code="431228" />
+			<County text="靖州苗族侗族自治县" code="431229" />
+			<County text="通道侗族自治县" code="431230" />
+			<County text="洪江市" code="431281" />
+		</City>
+		<City text="娄底市" code="431300">
+			<County text="市辖区" code="431301" />
+			<County text="娄星区" code="431302" />
+			<County text="双峰县" code="431321" />
+			<County text="新化县" code="431322" />
+			<County text="冷水江市" code="431381" />
+			<County text="涟源市" code="431382" />
+		</City>
+		<City text="湘西土家族苗族自治州" code="433100">
+			<County text="吉首市" code="433101" />
+			<County text="泸溪县" code="433122" />
+			<County text="凤凰县" code="433123" />
+			<County text="花垣县" code="433124" />
+			<County text="保靖县" code="433125" />
+			<County text="古丈县" code="433126" />
+			<County text="永顺县" code="433127" />
+			<County text="龙山县" code="433130" />
+		</City>
+	</Province>
+	<Province text="广东省" code="440000">
+		<City text="广州市" code="440100">
+			<County text="市辖区" code="440101" />
+			<County text="荔湾区" code="440103" />
+			<County text="越秀区" code="440104" />
+			<County text="海珠区" code="440105" />
+			<County text="天河区" code="440106" />
+			<County text="白云区" code="440111" />
+			<County text="黄埔区" code="440112" />
+			<County text="番禺区" code="440113" />
+			<County text="花都区" code="440114" />
+			<County text="南沙区" code="440115" />
+			<County text="萝岗区" code="440116" />
+			<County text="增城市" code="440183" />
+			<County text="从化市" code="440184" />
+		</City>
+		<City text="韶关市" code="440200">
+			<County text="市辖区" code="440201" />
+			<County text="武江区" code="440203" />
+			<County text="浈江区" code="440204" />
+			<County text="曲江区" code="440205" />
+			<County text="始兴县" code="440222" />
+			<County text="仁化县" code="440224" />
+			<County text="翁源县" code="440229" />
+			<County text="乳源瑶族自治县" code="440232" />
+			<County text="新丰县" code="440233" />
+			<County text="乐昌市" code="440281" />
+			<County text="南雄市" code="440282" />
+		</City>
+		<City text="深圳市" code="440300">
+			<County text="市辖区" code="440301" />
+			<County text="罗湖区" code="440303" />
+			<County text="福田区" code="440304" />
+			<County text="南山区" code="440305" />
+			<County text="宝安区" code="440306" />
+			<County text="龙岗区" code="440307" />
+			<County text="盐田区" code="440308" />
+		</City>
+		<City text="珠海市" code="440400">
+			<County text="市辖区" code="440401" />
+			<County text="香洲区" code="440402" />
+			<County text="斗门区" code="440403" />
+			<County text="金湾区" code="440404" />
+		</City>
+		<City text="汕头市" code="440500">
+			<County text="市辖区" code="440501" />
+			<County text="龙湖区" code="440507" />
+			<County text="金平区" code="440511" />
+			<County text="濠江区" code="440512" />
+			<County text="潮阳区" code="440513" />
+			<County text="潮南区" code="440514" />
+			<County text="澄海区" code="440515" />
+			<County text="南澳县" code="440523" />
+		</City>
+		<City text="佛山市" code="440600">
+			<County text="市辖区" code="440601" />
+			<County text="禅城区" code="440604" />
+			<County text="南海区" code="440605" />
+			<County text="顺德区" code="440606" />
+			<County text="三水区" code="440607" />
+			<County text="高明区" code="440608" />
+		</City>
+		<City text="江门市" code="440700">
+			<County text="市辖区" code="440701" />
+			<County text="蓬江区" code="440703" />
+			<County text="江海区" code="440704" />
+			<County text="新会区" code="440705" />
+			<County text="台山市" code="440781" />
+			<County text="开平市" code="440783" />
+			<County text="鹤山市" code="440784" />
+			<County text="恩平市" code="440785" />
+		</City>
+		<City text="湛江市" code="440800">
+			<County text="市辖区" code="440801" />
+			<County text="赤坎区" code="440802" />
+			<County text="霞山区" code="440803" />
+			<County text="坡头区" code="440804" />
+			<County text="麻章区" code="440811" />
+			<County text="遂溪县" code="440823" />
+			<County text="徐闻县" code="440825" />
+			<County text="廉江市" code="440881" />
+			<County text="雷州市" code="440882" />
+			<County text="吴川市" code="440883" />
+		</City>
+		<City text="茂名市" code="440900">
+			<County text="市辖区" code="440901" />
+			<County text="茂南区" code="440902" />
+			<County text="茂港区" code="440903" />
+			<County text="电白县" code="440923" />
+			<County text="高州市" code="440981" />
+			<County text="化州市" code="440982" />
+			<County text="信宜市" code="440983" />
+		</City>
+		<City text="肇庆市" code="441200">
+			<County text="市辖区" code="441201" />
+			<County text="端州区" code="441202" />
+			<County text="鼎湖区" code="441203" />
+			<County text="广宁县" code="441223" />
+			<County text="怀集县" code="441224" />
+			<County text="封开县" code="441225" />
+			<County text="德庆县" code="441226" />
+			<County text="高要市" code="441283" />
+			<County text="四会市" code="441284" />
+		</City>
+		<City text="惠州市" code="441300">
+			<County text="市辖区" code="441301" />
+			<County text="惠城区" code="441302" />
+			<County text="惠阳区" code="441303" />
+			<County text="博罗县" code="441322" />
+			<County text="惠东县" code="441323" />
+			<County text="龙门县" code="441324" />
+		</City>
+		<City text="梅州市" code="441400">
+			<County text="市辖区" code="441401" />
+			<County text="梅江区" code="441402" />
+			<County text="梅县" code="441421" />
+			<County text="大埔县" code="441422" />
+			<County text="丰顺县" code="441423" />
+			<County text="五华县" code="441424" />
+			<County text="平远县" code="441426" />
+			<County text="蕉岭县" code="441427" />
+			<County text="兴宁市" code="441481" />
+		</City>
+		<City text="汕尾市" code="441500">
+			<County text="市辖区" code="441501" />
+			<County text="城区" code="441502" />
+			<County text="海丰县" code="441521" />
+			<County text="陆河县" code="441523" />
+			<County text="陆丰市" code="441581" />
+		</City>
+		<City text="河源市" code="441600">
+			<County text="市辖区" code="441601" />
+			<County text="源城区" code="441602" />
+			<County text="紫金县" code="441621" />
+			<County text="龙川县" code="441622" />
+			<County text="连平县" code="441623" />
+			<County text="和平县" code="441624" />
+			<County text="东源县" code="441625" />
+		</City>
+		<City text="阳江市" code="441700">
+			<County text="市辖区" code="441701" />
+			<County text="江城区" code="441702" />
+			<County text="阳西县" code="441721" />
+			<County text="阳东县" code="441723" />
+			<County text="阳春市" code="441781" />
+		</City>
+		<City text="清远市" code="441800">
+			<County text="市辖区" code="441801" />
+			<County text="清城区" code="441802" />
+			<County text="佛冈县" code="441821" />
+			<County text="阳山县" code="441823" />
+			<County text="连山壮族瑶族自治县" code="441825" />
+			<County text="连南瑶族自治县" code="441826" />
+			<County text="清新县" code="441827" />
+			<County text="英德市" code="441881" />
+			<County text="连州市" code="441882" />
+		</City>
+		<City text="东莞市" code="441900" />
+		<City text="中山市" code="442000" />
+		<City text="潮州市" code="445100">
+			<County text="市辖区" code="445101" />
+			<County text="湘桥区" code="445102" />
+			<County text="潮安县" code="445121" />
+			<County text="饶平县" code="445122" />
+		</City>
+		<City text="揭阳市" code="445200">
+			<County text="市辖区" code="445201" />
+			<County text="榕城区" code="445202" />
+			<County text="揭东县" code="445221" />
+			<County text="揭西县" code="445222" />
+			<County text="惠来县" code="445224" />
+			<County text="普宁市" code="445281" />
+		</City>
+		<City text="云浮市" code="445300">
+			<County text="市辖区" code="445301" />
+			<County text="云城区" code="445302" />
+			<County text="新兴县" code="445321" />
+			<County text="郁南县" code="445322" />
+			<County text="云安县" code="445323" />
+			<County text="罗定市" code="445381" />
+		</City>
+	</Province>
+	<Province text="广西壮族自治区" code="450000">
+		<City text="南宁市" code="450100">
+			<County text="市辖区" code="450101" />
+			<County text="兴宁区" code="450102" />
+			<County text="青秀区" code="450103" />
+			<County text="江南区" code="450105" />
+			<County text="西乡塘区" code="450107" />
+			<County text="良庆区" code="450108" />
+			<County text="邕宁区" code="450109" />
+			<County text="武鸣县" code="450122" />
+			<County text="隆安县" code="450123" />
+			<County text="马山县" code="450124" />
+			<County text="上林县" code="450125" />
+			<County text="宾阳县" code="450126" />
+			<County text="横县" code="450127" />
+		</City>
+		<City text="柳州市" code="450200">
+			<County text="市辖区" code="450201" />
+			<County text="城中区" code="450202" />
+			<County text="鱼峰区" code="450203" />
+			<County text="柳南区" code="450204" />
+			<County text="柳北区" code="450205" />
+			<County text="柳江县" code="450221" />
+			<County text="柳城县" code="450222" />
+			<County text="鹿寨县" code="450223" />
+			<County text="融安县" code="450224" />
+			<County text="融水苗族自治县" code="450225" />
+			<County text="三江侗族自治县" code="450226" />
+		</City>
+		<City text="桂林市" code="450300">
+			<County text="市辖区" code="450301" />
+			<County text="秀峰区" code="450302" />
+			<County text="叠彩区" code="450303" />
+			<County text="象山区" code="450304" />
+			<County text="七星区" code="450305" />
+			<County text="雁山区" code="450311" />
+			<County text="阳朔县" code="450321" />
+			<County text="临桂县" code="450322" />
+			<County text="灵川县" code="450323" />
+			<County text="全州县" code="450324" />
+			<County text="兴安县" code="450325" />
+			<County text="永福县" code="450326" />
+			<County text="灌阳县" code="450327" />
+			<County text="龙胜各族自治县" code="450328" />
+			<County text="资源县" code="450329" />
+			<County text="平乐县" code="450330" />
+			<County text="荔浦县" code="450331" />
+			<County text="恭城瑶族自治县" code="450332" />
+		</City>
+		<City text="梧州市" code="450400">
+			<County text="市辖区" code="450401" />
+			<County text="万秀区" code="450403" />
+			<County text="蝶山区" code="450404" />
+			<County text="长洲区" code="450405" />
+			<County text="苍梧县" code="450421" />
+			<County text="藤县" code="450422" />
+			<County text="蒙山县" code="450423" />
+			<County text="岑溪市" code="450481" />
+		</City>
+		<City text="北海市" code="450500">
+			<County text="市辖区" code="450501" />
+			<County text="海城区" code="450502" />
+			<County text="银海区" code="450503" />
+			<County text="铁山港区" code="450512" />
+			<County text="合浦县" code="450521" />
+		</City>
+		<City text="防城港市" code="450600">
+			<County text="市辖区" code="450601" />
+			<County text="港口区" code="450602" />
+			<County text="防城区" code="450603" />
+			<County text="上思县" code="450621" />
+			<County text="东兴市" code="450681" />
+		</City>
+		<City text="钦州市" code="450700">
+			<County text="市辖区" code="450701" />
+			<County text="钦南区" code="450702" />
+			<County text="钦北区" code="450703" />
+			<County text="灵山县" code="450721" />
+			<County text="浦北县" code="450722" />
+		</City>
+		<City text="贵港市" code="450800">
+			<County text="市辖区" code="450801" />
+			<County text="港北区" code="450802" />
+			<County text="港南区" code="450803" />
+			<County text="覃塘区" code="450804" />
+			<County text="平南县" code="450821" />
+			<County text="桂平市" code="450881" />
+		</City>
+		<City text="玉林市" code="450900">
+			<County text="市辖区" code="450901" />
+			<County text="玉州区" code="450902" />
+			<County text="容县" code="450921" />
+			<County text="陆川县" code="450922" />
+			<County text="博白县" code="450923" />
+			<County text="兴业县" code="450924" />
+			<County text="北流市" code="450981" />
+		</City>
+		<City text="百色市" code="451000">
+			<County text="市辖区" code="451001" />
+			<County text="右江区" code="451002" />
+			<County text="田阳县" code="451021" />
+			<County text="田东县" code="451022" />
+			<County text="平果县" code="451023" />
+			<County text="德保县" code="451024" />
+			<County text="靖西县" code="451025" />
+			<County text="那坡县" code="451026" />
+			<County text="凌云县" code="451027" />
+			<County text="乐业县" code="451028" />
+			<County text="田林县" code="451029" />
+			<County text="西林县" code="451030" />
+			<County text="隆林各族自治县" code="451031" />
+		</City>
+		<City text="贺州市" code="451100">
+			<County text="市辖区" code="451101" />
+			<County text="八步区" code="451102" />
+			<County text="昭平县" code="451121" />
+			<County text="钟山县" code="451122" />
+			<County text="富川瑶族自治县" code="451123" />
+		</City>
+		<City text="河池市" code="451200">
+			<County text="市辖区" code="451201" />
+			<County text="金城江区" code="451202" />
+			<County text="南丹县" code="451221" />
+			<County text="天峨县" code="451222" />
+			<County text="凤山县" code="451223" />
+			<County text="东兰县" code="451224" />
+			<County text="罗城仫佬族自治县" code="451225" />
+			<County text="环江毛南族自治县" code="451226" />
+			<County text="巴马瑶族自治县" code="451227" />
+			<County text="都安瑶族自治县" code="451228" />
+			<County text="大化瑶族自治县" code="451229" />
+			<County text="宜州市" code="451281" />
+		</City>
+		<City text="来宾市" code="451300">
+			<County text="市辖区" code="451301" />
+			<County text="兴宾区" code="451302" />
+			<County text="忻城县" code="451321" />
+			<County text="象州县" code="451322" />
+			<County text="武宣县" code="451323" />
+			<County text="金秀瑶族自治县" code="451324" />
+			<County text="合山市" code="451381" />
+		</City>
+		<City text="崇左市" code="451400">
+			<County text="市辖区" code="451401" />
+			<County text="江洲区" code="451402" />
+			<County text="扶绥县" code="451421" />
+			<County text="宁明县" code="451422" />
+			<County text="龙州县" code="451423" />
+			<County text="大新县" code="451424" />
+			<County text="天等县" code="451425" />
+			<County text="凭祥市" code="451481" />
+		</City>
+	</Province>
+	<Province text="海南省" code="460000">
+		<City text="海口市" code="460100">
+			<County text="市辖区" code="460101" />
+			<County text="秀英区" code="460105" />
+			<County text="龙华区" code="460106" />
+			<County text="琼山区" code="460107" />
+			<County text="美兰区" code="460108" />
+		</City>
+		<City text="三亚市" code="460200">
+			<County text="市辖区" code="460201" />
+		</City>
+		<City text="三沙市" code="460300">
+			<County text="西沙群岛" code="460321" />
+			<County text="南沙群岛" code="460322" />
+			<County text="中沙群岛的岛礁及其海域" code="460323" />
+		</City>
+		<City text="省直辖县级行政区划" code="469000">
+			<County text="五指山市" code="469001" />
+			<County text="琼海市" code="469002" />
+			<County text="儋州市" code="469003" />
+			<County text="文昌市" code="469005" />
+			<County text="万宁市" code="469006" />
+			<County text="东方市" code="469007" />
+			<County text="定安县" code="469021" />
+			<County text="屯昌县" code="469022" />
+			<County text="澄迈县" code="469023" />
+			<County text="临高县" code="469024" />
+			<County text="白沙黎族自治县" code="469025" />
+			<County text="昌江黎族自治县" code="469026" />
+			<County text="乐东黎族自治县" code="469027" />
+			<County text="陵水黎族自治县" code="469028" />
+			<County text="保亭黎族苗族自治县" code="469029" />
+			<County text="琼中黎族苗族自治县" code="469030" />
+		</City>
+	</Province>
+	<Province text="重庆市" code="500000">
+		<City text="市辖区" code="500100">
+			<County text="万州区" code="500101" />
+			<County text="涪陵区" code="500102" />
+			<County text="渝中区" code="500103" />
+			<County text="大渡口区" code="500104" />
+			<County text="江北区" code="500105" />
+			<County text="沙坪坝区" code="500106" />
+			<County text="九龙坡区" code="500107" />
+			<County text="南岸区" code="500108" />
+			<County text="北碚区" code="500109" />
+			<County text="綦江区" code="500110" />
+			<County text="大足区" code="500111" />
+			<County text="渝北区" code="500112" />
+			<County text="巴南区" code="500113" />
+			<County text="黔江区" code="500114" />
+			<County text="长寿区" code="500115" />
+			<County text="江津区" code="500116" />
+			<County text="合川区" code="500117" />
+			<County text="永川区" code="500118" />
+			<County text="南川区" code="500119" />
+		</City>
+		<City text="县" code="500200">
+			<County text="潼南县" code="500223" />
+			<County text="铜梁县" code="500224" />
+			<County text="荣昌县" code="500226" />
+			<County text="璧山县" code="500227" />
+			<County text="梁平县" code="500228" />
+			<County text="城口县" code="500229" />
+			<County text="丰都县" code="500230" />
+			<County text="垫江县" code="500231" />
+			<County text="武隆县" code="500232" />
+			<County text="忠县" code="500233" />
+			<County text="开县" code="500234" />
+			<County text="云阳县" code="500235" />
+			<County text="奉节县" code="500236" />
+			<County text="巫山县" code="500237" />
+			<County text="巫溪县" code="500238" />
+			<County text="石柱土家族自治县" code="500240" />
+			<County text="秀山土家族苗族自治县" code="500241" />
+			<County text="酉阳土家族苗族自治县" code="500242" />
+			<County text="彭水苗族土家族自治县" code="500243" />
+		</City>
+	</Province>
+	<Province text="四川省" code="510000">
+		<City text="成都市" code="510100">
+			<County text="市辖区" code="510101" />
+			<County text="锦江区" code="510104" />
+			<County text="青羊区" code="510105" />
+			<County text="金牛区" code="510106" />
+			<County text="武侯区" code="510107" />
+			<County text="成华区" code="510108" />
+			<County text="龙泉驿区" code="510112" />
+			<County text="青白江区" code="510113" />
+			<County text="新都区" code="510114" />
+			<County text="温江区" code="510115" />
+			<County text="金堂县" code="510121" />
+			<County text="双流县" code="510122" />
+			<County text="郫县" code="510124" />
+			<County text="大邑县" code="510129" />
+			<County text="蒲江县" code="510131" />
+			<County text="新津县" code="510132" />
+			<County text="都江堰市" code="510181" />
+			<County text="彭州市" code="510182" />
+			<County text="邛崃市" code="510183" />
+			<County text="崇州市" code="510184" />
+		</City>
+		<City text="自贡市" code="510300">
+			<County text="市辖区" code="510301" />
+			<County text="自流井区" code="510302" />
+			<County text="贡井区" code="510303" />
+			<County text="大安区" code="510304" />
+			<County text="沿滩区" code="510311" />
+			<County text="荣县" code="510321" />
+			<County text="富顺县" code="510322" />
+		</City>
+		<City text="攀枝花市" code="510400">
+			<County text="市辖区" code="510401" />
+			<County text="东区" code="510402" />
+			<County text="西区" code="510403" />
+			<County text="仁和区" code="510411" />
+			<County text="米易县" code="510421" />
+			<County text="盐边县" code="510422" />
+		</City>
+		<City text="泸州市" code="510500">
+			<County text="市辖区" code="510501" />
+			<County text="江阳区" code="510502" />
+			<County text="纳溪区" code="510503" />
+			<County text="龙马潭区" code="510504" />
+			<County text="泸县" code="510521" />
+			<County text="合江县" code="510522" />
+			<County text="叙永县" code="510524" />
+			<County text="古蔺县" code="510525" />
+		</City>
+		<City text="德阳市" code="510600">
+			<County text="市辖区" code="510601" />
+			<County text="旌阳区" code="510603" />
+			<County text="中江县" code="510623" />
+			<County text="罗江县" code="510626" />
+			<County text="广汉市" code="510681" />
+			<County text="什邡市" code="510682" />
+			<County text="绵竹市" code="510683" />
+		</City>
+		<City text="绵阳市" code="510700">
+			<County text="市辖区" code="510701" />
+			<County text="涪城区" code="510703" />
+			<County text="游仙区" code="510704" />
+			<County text="三台县" code="510722" />
+			<County text="盐亭县" code="510723" />
+			<County text="安县" code="510724" />
+			<County text="梓潼县" code="510725" />
+			<County text="北川羌族自治县" code="510726" />
+			<County text="平武县" code="510727" />
+			<County text="江油市" code="510781" />
+		</City>
+		<City text="广元市" code="510800">
+			<County text="市辖区" code="510801" />
+			<County text="利州区" code="510802" />
+			<County text="元坝区" code="510811" />
+			<County text="朝天区" code="510812" />
+			<County text="旺苍县" code="510821" />
+			<County text="青川县" code="510822" />
+			<County text="剑阁县" code="510823" />
+			<County text="苍溪县" code="510824" />
+		</City>
+		<City text="遂宁市" code="510900">
+			<County text="市辖区" code="510901" />
+			<County text="船山区" code="510903" />
+			<County text="安居区" code="510904" />
+			<County text="蓬溪县" code="510921" />
+			<County text="射洪县" code="510922" />
+			<County text="大英县" code="510923" />
+		</City>
+		<City text="内江市" code="511000">
+			<County text="市辖区" code="511001" />
+			<County text="市中区" code="511002" />
+			<County text="东兴区" code="511011" />
+			<County text="威远县" code="511024" />
+			<County text="资中县" code="511025" />
+			<County text="隆昌县" code="511028" />
+		</City>
+		<City text="乐山市" code="511100">
+			<County text="市辖区" code="511101" />
+			<County text="市中区" code="511102" />
+			<County text="沙湾区" code="511111" />
+			<County text="五通桥区" code="511112" />
+			<County text="金口河区" code="511113" />
+			<County text="犍为县" code="511123" />
+			<County text="井研县" code="511124" />
+			<County text="夹江县" code="511126" />
+			<County text="沐川县" code="511129" />
+			<County text="峨边彝族自治县" code="511132" />
+			<County text="马边彝族自治县" code="511133" />
+			<County text="峨眉山市" code="511181" />
+		</City>
+		<City text="南充市" code="511300">
+			<County text="市辖区" code="511301" />
+			<County text="顺庆区" code="511302" />
+			<County text="高坪区" code="511303" />
+			<County text="嘉陵区" code="511304" />
+			<County text="南部县" code="511321" />
+			<County text="营山县" code="511322" />
+			<County text="蓬安县" code="511323" />
+			<County text="仪陇县" code="511324" />
+			<County text="西充县" code="511325" />
+			<County text="阆中市" code="511381" />
+		</City>
+		<City text="眉山市" code="511400">
+			<County text="市辖区" code="511401" />
+			<County text="东坡区" code="511402" />
+			<County text="仁寿县" code="511421" />
+			<County text="彭山县" code="511422" />
+			<County text="洪雅县" code="511423" />
+			<County text="丹棱县" code="511424" />
+			<County text="青神县" code="511425" />
+		</City>
+		<City text="宜宾市" code="511500">
+			<County text="市辖区" code="511501" />
+			<County text="翠屏区" code="511502" />
+			<County text="南溪区" code="511503" />
+			<County text="宜宾县" code="511521" />
+			<County text="江安县" code="511523" />
+			<County text="长宁县" code="511524" />
+			<County text="高县" code="511525" />
+			<County text="珙县" code="511526" />
+			<County text="筠连县" code="511527" />
+			<County text="兴文县" code="511528" />
+			<County text="屏山县" code="511529" />
+		</City>
+		<City text="广安市" code="511600">
+			<County text="市辖区" code="511601" />
+			<County text="广安区" code="511602" />
+			<County text="岳池县" code="511621" />
+			<County text="武胜县" code="511622" />
+			<County text="邻水县" code="511623" />
+			<County text="华蓥市" code="511681" />
+		</City>
+		<City text="达州市" code="511700">
+			<County text="市辖区" code="511701" />
+			<County text="通川区" code="511702" />
+			<County text="达县" code="511721" />
+			<County text="宣汉县" code="511722" />
+			<County text="开江县" code="511723" />
+			<County text="大竹县" code="511724" />
+			<County text="渠县" code="511725" />
+			<County text="万源市" code="511781" />
+		</City>
+		<City text="雅安市" code="511800">
+			<County text="市辖区" code="511801" />
+			<County text="雨城区" code="511802" />
+			<County text="名山区" code="511803" />
+			<County text="荥经县" code="511822" />
+			<County text="汉源县" code="511823" />
+			<County text="石棉县" code="511824" />
+			<County text="天全县" code="511825" />
+			<County text="芦山县" code="511826" />
+			<County text="宝兴县" code="511827" />
+		</City>
+		<City text="巴中市" code="511900">
+			<County text="市辖区" code="511901" />
+			<County text="巴州区" code="511902" />
+			<County text="通江县" code="511921" />
+			<County text="南江县" code="511922" />
+			<County text="平昌县" code="511923" />
+		</City>
+		<City text="资阳市" code="512000">
+			<County text="市辖区" code="512001" />
+			<County text="雁江区" code="512002" />
+			<County text="安岳县" code="512021" />
+			<County text="乐至县" code="512022" />
+			<County text="简阳市" code="512081" />
+		</City>
+		<City text="阿坝藏族羌族自治州" code="513200">
+			<County text="汶川县" code="513221" />
+			<County text="理县" code="513222" />
+			<County text="茂县" code="513223" />
+			<County text="松潘县" code="513224" />
+			<County text="九寨沟县" code="513225" />
+			<County text="金川县" code="513226" />
+			<County text="小金县" code="513227" />
+			<County text="黑水县" code="513228" />
+			<County text="马尔康县" code="513229" />
+			<County text="壤塘县" code="513230" />
+			<County text="阿坝县" code="513231" />
+			<County text="若尔盖县" code="513232" />
+			<County text="红原县" code="513233" />
+		</City>
+		<City text="甘孜藏族自治州" code="513300">
+			<County text="康定县" code="513321" />
+			<County text="泸定县" code="513322" />
+			<County text="丹巴县" code="513323" />
+			<County text="九龙县" code="513324" />
+			<County text="雅江县" code="513325" />
+			<County text="道孚县" code="513326" />
+			<County text="炉霍县" code="513327" />
+			<County text="甘孜县" code="513328" />
+			<County text="新龙县" code="513329" />
+			<County text="德格县" code="513330" />
+			<County text="白玉县" code="513331" />
+			<County text="石渠县" code="513332" />
+			<County text="色达县" code="513333" />
+			<County text="理塘县" code="513334" />
+			<County text="巴塘县" code="513335" />
+			<County text="乡城县" code="513336" />
+			<County text="稻城县" code="513337" />
+			<County text="得荣县" code="513338" />
+		</City>
+		<City text="凉山彝族自治州" code="513400">
+			<County text="西昌市" code="513401" />
+			<County text="木里藏族自治县" code="513422" />
+			<County text="盐源县" code="513423" />
+			<County text="德昌县" code="513424" />
+			<County text="会理县" code="513425" />
+			<County text="会东县" code="513426" />
+			<County text="宁南县" code="513427" />
+			<County text="普格县" code="513428" />
+			<County text="布拖县" code="513429" />
+			<County text="金阳县" code="513430" />
+			<County text="昭觉县" code="513431" />
+			<County text="喜德县" code="513432" />
+			<County text="冕宁县" code="513433" />
+			<County text="越西县" code="513434" />
+			<County text="甘洛县" code="513435" />
+			<County text="美姑县" code="513436" />
+			<County text="雷波县" code="513437" />
+		</City>
+	</Province>
+	<Province text="贵州省" code="520000">
+		<City text="贵阳市" code="520100">
+			<County text="市辖区" code="520101" />
+			<County text="南明区" code="520102" />
+			<County text="云岩区" code="520103" />
+			<County text="花溪区" code="520111" />
+			<County text="乌当区" code="520112" />
+			<County text="白云区" code="520113" />
+			<County text="小河区" code="520114" />
+			<County text="开阳县" code="520121" />
+			<County text="息烽县" code="520122" />
+			<County text="修文县" code="520123" />
+			<County text="清镇市" code="520181" />
+		</City>
+		<City text="六盘水市" code="520200">
+			<County text="钟山区" code="520201" />
+			<County text="六枝特区" code="520203" />
+			<County text="水城县" code="520221" />
+			<County text="盘县" code="520222" />
+		</City>
+		<City text="遵义市" code="520300">
+			<County text="市辖区" code="520301" />
+			<County text="红花岗区" code="520302" />
+			<County text="汇川区" code="520303" />
+			<County text="遵义县" code="520321" />
+			<County text="桐梓县" code="520322" />
+			<County text="绥阳县" code="520323" />
+			<County text="正安县" code="520324" />
+			<County text="道真仡佬族苗族自治县" code="520325" />
+			<County text="务川仡佬族苗族自治县" code="520326" />
+			<County text="凤冈县" code="520327" />
+			<County text="湄潭县" code="520328" />
+			<County text="余庆县" code="520329" />
+			<County text="习水县" code="520330" />
+			<County text="赤水市" code="520381" />
+			<County text="仁怀市" code="520382" />
+		</City>
+		<City text="安顺市" code="520400">
+			<County text="市辖区" code="520401" />
+			<County text="西秀区" code="520402" />
+			<County text="平坝县" code="520421" />
+			<County text="普定县" code="520422" />
+			<County text="镇宁布依族苗族自治县" code="520423" />
+			<County text="关岭布依族苗族自治县" code="520424" />
+			<County text="紫云苗族布依族自治县" code="520425" />
+		</City>
+		<City text="毕节市" code="520500">
+			<County text="七星关区" code="520502" />
+			<County text="大方县" code="520521" />
+			<County text="黔西县" code="520522" />
+			<County text="金沙县" code="520523" />
+			<County text="织金县" code="520524" />
+			<County text="纳雍县" code="520525" />
+			<County text="威宁彝族回族苗族自治县" code="520526" />
+			<County text="赫章县" code="520527" />
+		</City>
+		<City text="铜仁市" code="520600">
+			<County text="碧江区" code="520602" />
+			<County text="万山区" code="520603" />
+			<County text="江口县" code="520621" />
+			<County text="玉屏侗族自治县" code="520622" />
+			<County text="石阡县" code="520623" />
+			<County text="思南县" code="520624" />
+			<County text="印江土家族苗族自治县" code="520625" />
+			<County text="德江县" code="520626" />
+			<County text="沿河土家族自治县" code="520627" />
+			<County text="松桃苗族自治县" code="520628" />
+		</City>
+		<City text="黔西南布依族苗族自治州" code="522300">
+			<County text="兴义市" code="522301" />
+			<County text="兴仁县" code="522322" />
+			<County text="普安县" code="522323" />
+			<County text="晴隆县" code="522324" />
+			<County text="贞丰县" code="522325" />
+			<County text="望谟县" code="522326" />
+			<County text="册亨县" code="522327" />
+			<County text="安龙县" code="522328" />
+		</City>
+		<City text="黔东南苗族侗族自治州" code="522600">
+			<County text="凯里市" code="522601" />
+			<County text="黄平县" code="522622" />
+			<County text="施秉县" code="522623" />
+			<County text="三穗县" code="522624" />
+			<County text="镇远县" code="522625" />
+			<County text="岑巩县" code="522626" />
+			<County text="天柱县" code="522627" />
+			<County text="锦屏县" code="522628" />
+			<County text="剑河县" code="522629" />
+			<County text="台江县" code="522630" />
+			<County text="黎平县" code="522631" />
+			<County text="榕江县" code="522632" />
+			<County text="从江县" code="522633" />
+			<County text="雷山县" code="522634" />
+			<County text="麻江县" code="522635" />
+			<County text="丹寨县" code="522636" />
+		</City>
+		<City text="黔南布依族苗族自治州" code="522700">
+			<County text="都匀市" code="522701" />
+			<County text="福泉市" code="522702" />
+			<County text="荔波县" code="522722" />
+			<County text="贵定县" code="522723" />
+			<County text="瓮安县" code="522725" />
+			<County text="独山县" code="522726" />
+			<County text="平塘县" code="522727" />
+			<County text="罗甸县" code="522728" />
+			<County text="长顺县" code="522729" />
+			<County text="龙里县" code="522730" />
+			<County text="惠水县" code="522731" />
+			<County text="三都水族自治县" code="522732" />
+		</City>
+	</Province>
+	<Province text="云南省" code="530000">
+		<City text="昆明市" code="530100">
+			<County text="市辖区" code="530101" />
+			<County text="五华区" code="530102" />
+			<County text="盘龙区" code="530103" />
+			<County text="官渡区" code="530111" />
+			<County text="西山区" code="530112" />
+			<County text="东川区" code="530113" />
+			<County text="呈贡区" code="530114" />
+			<County text="晋宁县" code="530122" />
+			<County text="富民县" code="530124" />
+			<County text="宜良县" code="530125" />
+			<County text="石林彝族自治县" code="530126" />
+			<County text="嵩明县" code="530127" />
+			<County text="禄劝彝族苗族自治县" code="530128" />
+			<County text="寻甸回族彝族自治县" code="530129" />
+			<County text="安宁市" code="530181" />
+		</City>
+		<City text="曲靖市" code="530300">
+			<County text="市辖区" code="530301" />
+			<County text="麒麟区" code="530302" />
+			<County text="马龙县" code="530321" />
+			<County text="陆良县" code="530322" />
+			<County text="师宗县" code="530323" />
+			<County text="罗平县" code="530324" />
+			<County text="富源县" code="530325" />
+			<County text="会泽县" code="530326" />
+			<County text="沾益县" code="530328" />
+			<County text="宣威市" code="530381" />
+		</City>
+		<City text="玉溪市" code="530400">
+			<County text="红塔区" code="530402" />
+			<County text="江川县" code="530421" />
+			<County text="澄江县" code="530422" />
+			<County text="通海县" code="530423" />
+			<County text="华宁县" code="530424" />
+			<County text="易门县" code="530425" />
+			<County text="峨山彝族自治县" code="530426" />
+			<County text="新平彝族傣族自治县" code="530427" />
+			<County text="元江哈尼族彝族傣族自治县" code="530428" />
+		</City>
+		<City text="保山市" code="530500">
+			<County text="市辖区" code="530501" />
+			<County text="隆阳区" code="530502" />
+			<County text="施甸县" code="530521" />
+			<County text="腾冲县" code="530522" />
+			<County text="龙陵县" code="530523" />
+			<County text="昌宁县" code="530524" />
+		</City>
+		<City text="昭通市" code="530600">
+			<County text="市辖区" code="530601" />
+			<County text="昭阳区" code="530602" />
+			<County text="鲁甸县" code="530621" />
+			<County text="巧家县" code="530622" />
+			<County text="盐津县" code="530623" />
+			<County text="大关县" code="530624" />
+			<County text="永善县" code="530625" />
+			<County text="绥江县" code="530626" />
+			<County text="镇雄县" code="530627" />
+			<County text="彝良县" code="530628" />
+			<County text="威信县" code="530629" />
+			<County text="水富县" code="530630" />
+		</City>
+		<City text="丽江市" code="530700">
+			<County text="市辖区" code="530701" />
+			<County text="古城区" code="530702" />
+			<County text="玉龙纳西族自治县" code="530721" />
+			<County text="永胜县" code="530722" />
+			<County text="华坪县" code="530723" />
+			<County text="宁蒗彝族自治县" code="530724" />
+		</City>
+		<City text="普洱市" code="530800">
+			<County text="市辖区" code="530801" />
+			<County text="思茅区" code="530802" />
+			<County text="宁洱哈尼族彝族自治县" code="530821" />
+			<County text="墨江哈尼族自治县" code="530822" />
+			<County text="景东彝族自治县" code="530823" />
+			<County text="景谷傣族彝族自治县" code="530824" />
+			<County text="镇沅彝族哈尼族拉祜族自治县" code="530825" />
+			<County text="江城哈尼族彝族自治县" code="530826" />
+			<County text="孟连傣族拉祜族佤族自治县" code="530827" />
+			<County text="澜沧拉祜族自治县" code="530828" />
+			<County text="西盟佤族自治县" code="530829" />
+		</City>
+		<City text="临沧市" code="530900">
+			<County text="市辖区" code="530901" />
+			<County text="临翔区" code="530902" />
+			<County text="凤庆县" code="530921" />
+			<County text="云县" code="530922" />
+			<County text="永德县" code="530923" />
+			<County text="镇康县" code="530924" />
+			<County text="双江拉祜族佤族布朗族傣族自治县" code="530925" />
+			<County text="耿马傣族佤族自治县" code="530926" />
+			<County text="沧源佤族自治县" code="530927" />
+		</City>
+		<City text="楚雄彝族自治州" code="532300">
+			<County text="楚雄市" code="532301" />
+			<County text="双柏县" code="532322" />
+			<County text="牟定县" code="532323" />
+			<County text="南华县" code="532324" />
+			<County text="姚安县" code="532325" />
+			<County text="大姚县" code="532326" />
+			<County text="永仁县" code="532327" />
+			<County text="元谋县" code="532328" />
+			<County text="武定县" code="532329" />
+			<County text="禄丰县" code="532331" />
+		</City>
+		<City text="红河哈尼族彝族自治州" code="532500">
+			<County text="个旧市" code="532501" />
+			<County text="开远市" code="532502" />
+			<County text="蒙自市" code="532503" />
+			<County text="屏边苗族自治县" code="532523" />
+			<County text="建水县" code="532524" />
+			<County text="石屏县" code="532525" />
+			<County text="弥勒县" code="532526" />
+			<County text="泸西县" code="532527" />
+			<County text="元阳县" code="532528" />
+			<County text="红河县" code="532529" />
+			<County text="金平苗族瑶族傣族自治县" code="532530" />
+			<County text="绿春县" code="532531" />
+			<County text="河口瑶族自治县" code="532532" />
+		</City>
+		<City text="文山壮族苗族自治州" code="532600">
+			<County text="文山市" code="532601" />
+			<County text="砚山县" code="532622" />
+			<County text="西畴县" code="532623" />
+			<County text="麻栗坡县" code="532624" />
+			<County text="马关县" code="532625" />
+			<County text="丘北县" code="532626" />
+			<County text="广南县" code="532627" />
+			<County text="富宁县" code="532628" />
+		</City>
+		<City text="西双版纳傣族自治州" code="532800">
+			<County text="景洪市" code="532801" />
+			<County text="勐海县" code="532822" />
+			<County text="勐腊县" code="532823" />
+		</City>
+		<City text="大理白族自治州" code="532900">
+			<County text="大理市" code="532901" />
+			<County text="漾濞彝族自治县" code="532922" />
+			<County text="祥云县" code="532923" />
+			<County text="宾川县" code="532924" />
+			<County text="弥渡县" code="532925" />
+			<County text="南涧彝族自治县" code="532926" />
+			<County text="巍山彝族回族自治县" code="532927" />
+			<County text="永平县" code="532928" />
+			<County text="云龙县" code="532929" />
+			<County text="洱源县" code="532930" />
+			<County text="剑川县" code="532931" />
+			<County text="鹤庆县" code="532932" />
+		</City>
+		<City text="德宏傣族景颇族自治州" code="533100">
+			<County text="瑞丽市" code="533102" />
+			<County text="芒市" code="533103" />
+			<County text="梁河县" code="533122" />
+			<County text="盈江县" code="533123" />
+			<County text="陇川县" code="533124" />
+		</City>
+		<City text="怒江傈僳族自治州" code="533300">
+			<County text="泸水县" code="533321" />
+			<County text="福贡县" code="533323" />
+			<County text="贡山独龙族怒族自治县" code="533324" />
+			<County text="兰坪白族普米族自治县" code="533325" />
+		</City>
+		<City text="迪庆藏族自治州" code="533400">
+			<County text="香格里拉县" code="533421" />
+			<County text="德钦县" code="533422" />
+			<County text="维西傈僳族自治县" code="533423" />
+		</City>
+	</Province>
+	<Province text="西藏自治区" code="540000">
+		<City text="拉萨市" code="540100">
+			<County text="市辖区" code="540101" />
+			<County text="城关区" code="540102" />
+			<County text="林周县" code="540121" />
+			<County text="当雄县" code="540122" />
+			<County text="尼木县" code="540123" />
+			<County text="曲水县" code="540124" />
+			<County text="堆龙德庆县" code="540125" />
+			<County text="达孜县" code="540126" />
+			<County text="墨竹工卡县" code="540127" />
+		</City>
+		<City text="昌都地区" code="542100">
+			<County text="昌都县" code="542121" />
+			<County text="江达县" code="542122" />
+			<County text="贡觉县" code="542123" />
+			<County text="类乌齐县" code="542124" />
+			<County text="丁青县" code="542125" />
+			<County text="察雅县" code="542126" />
+			<County text="八宿县" code="542127" />
+			<County text="左贡县" code="542128" />
+			<County text="芒康县" code="542129" />
+			<County text="洛隆县" code="542132" />
+			<County text="边坝县" code="542133" />
+		</City>
+		<City text="山南地区" code="542200">
+			<County text="乃东县" code="542221" />
+			<County text="扎囊县" code="542222" />
+			<County text="贡嘎县" code="542223" />
+			<County text="桑日县" code="542224" />
+			<County text="琼结县" code="542225" />
+			<County text="曲松县" code="542226" />
+			<County text="措美县" code="542227" />
+			<County text="洛扎县" code="542228" />
+			<County text="加查县" code="542229" />
+			<County text="隆子县" code="542231" />
+			<County text="错那县" code="542232" />
+			<County text="浪卡子县" code="542233" />
+		</City>
+		<City text="日喀则地区" code="542300">
+			<County text="日喀则市" code="542301" />
+			<County text="南木林县" code="542322" />
+			<County text="江孜县" code="542323" />
+			<County text="定日县" code="542324" />
+			<County text="萨迦县" code="542325" />
+			<County text="拉孜县" code="542326" />
+			<County text="昂仁县" code="542327" />
+			<County text="谢通门县" code="542328" />
+			<County text="白朗县" code="542329" />
+			<County text="仁布县" code="542330" />
+			<County text="康马县" code="542331" />
+			<County text="定结县" code="542332" />
+			<County text="仲巴县" code="542333" />
+			<County text="亚东县" code="542334" />
+			<County text="吉隆县" code="542335" />
+			<County text="聂拉木县" code="542336" />
+			<County text="萨嘎县" code="542337" />
+			<County text="岗巴县" code="542338" />
+		</City>
+		<City text="那曲地区" code="542400">
+			<County text="那曲县" code="542421" />
+			<County text="嘉黎县" code="542422" />
+			<County text="比如县" code="542423" />
+			<County text="聂荣县" code="542424" />
+			<County text="安多县" code="542425" />
+			<County text="申扎县" code="542426" />
+			<County text="索县" code="542427" />
+			<County text="班戈县" code="542428" />
+			<County text="巴青县" code="542429" />
+			<County text="尼玛县" code="542430" />
+		</City>
+		<City text="阿里地区" code="542500">
+			<County text="普兰县" code="542521" />
+			<County text="札达县" code="542522" />
+			<County text="噶尔县" code="542523" />
+			<County text="日土县" code="542524" />
+			<County text="革吉县" code="542525" />
+			<County text="改则县" code="542526" />
+			<County text="措勤县" code="542527" />
+		</City>
+		<City text="林芝地区" code="542600">
+			<County text="林芝县" code="542621" />
+			<County text="工布江达县" code="542622" />
+			<County text="米林县" code="542623" />
+			<County text="墨脱县" code="542624" />
+			<County text="波密县" code="542625" />
+			<County text="察隅县" code="542626" />
+			<County text="朗县" code="542627" />
+		</City>
+	</Province>
+	<Province text="陕西省" code="610000">
+		<City text="西安市" code="610100">
+			<County text="市辖区" code="610101" />
+			<County text="新城区" code="610102" />
+			<County text="碑林区" code="610103" />
+			<County text="莲湖区" code="610104" />
+			<County text="灞桥区" code="610111" />
+			<County text="未央区" code="610112" />
+			<County text="雁塔区" code="610113" />
+			<County text="阎良区" code="610114" />
+			<County text="临潼区" code="610115" />
+			<County text="长安区" code="610116" />
+			<County text="蓝田县" code="610122" />
+			<County text="周至县" code="610124" />
+			<County text="户县" code="610125" />
+			<County text="高陵县" code="610126" />
+		</City>
+		<City text="铜川市" code="610200">
+			<County text="市辖区" code="610201" />
+			<County text="王益区" code="610202" />
+			<County text="印台区" code="610203" />
+			<County text="耀州区" code="610204" />
+			<County text="宜君县" code="610222" />
+		</City>
+		<City text="宝鸡市" code="610300">
+			<County text="市辖区" code="610301" />
+			<County text="渭滨区" code="610302" />
+			<County text="金台区" code="610303" />
+			<County text="陈仓区" code="610304" />
+			<County text="凤翔县" code="610322" />
+			<County text="岐山县" code="610323" />
+			<County text="扶风县" code="610324" />
+			<County text="眉县" code="610326" />
+			<County text="陇县" code="610327" />
+			<County text="千阳县" code="610328" />
+			<County text="麟游县" code="610329" />
+			<County text="凤县" code="610330" />
+			<County text="太白县" code="610331" />
+		</City>
+		<City text="咸阳市" code="610400">
+			<County text="市辖区" code="610401" />
+			<County text="秦都区" code="610402" />
+			<County text="杨陵区" code="610403" />
+			<County text="渭城区" code="610404" />
+			<County text="三原县" code="610422" />
+			<County text="泾阳县" code="610423" />
+			<County text="乾县" code="610424" />
+			<County text="礼泉县" code="610425" />
+			<County text="永寿县" code="610426" />
+			<County text="彬县" code="610427" />
+			<County text="长武县" code="610428" />
+			<County text="旬邑县" code="610429" />
+			<County text="淳化县" code="610430" />
+			<County text="武功县" code="610431" />
+			<County text="兴平市" code="610481" />
+		</City>
+		<City text="渭南市" code="610500">
+			<County text="市辖区" code="610501" />
+			<County text="临渭区" code="610502" />
+			<County text="华县" code="610521" />
+			<County text="潼关县" code="610522" />
+			<County text="大荔县" code="610523" />
+			<County text="合阳县" code="610524" />
+			<County text="澄城县" code="610525" />
+			<County text="蒲城县" code="610526" />
+			<County text="白水县" code="610527" />
+			<County text="富平县" code="610528" />
+			<County text="韩城市" code="610581" />
+			<County text="华阴市" code="610582" />
+		</City>
+		<City text="延安市" code="610600">
+			<County text="市辖区" code="610601" />
+			<County text="宝塔区" code="610602" />
+			<County text="延长县" code="610621" />
+			<County text="延川县" code="610622" />
+			<County text="子长县" code="610623" />
+			<County text="安塞县" code="610624" />
+			<County text="志丹县" code="610625" />
+			<County text="吴起县" code="610626" />
+			<County text="甘泉县" code="610627" />
+			<County text="富县" code="610628" />
+			<County text="洛川县" code="610629" />
+			<County text="宜川县" code="610630" />
+			<County text="黄龙县" code="610631" />
+			<County text="黄陵县" code="610632" />
+		</City>
+		<City text="汉中市" code="610700">
+			<County text="市辖区" code="610701" />
+			<County text="汉台区" code="610702" />
+			<County text="南郑县" code="610721" />
+			<County text="城固县" code="610722" />
+			<County text="洋县" code="610723" />
+			<County text="西乡县" code="610724" />
+			<County text="勉县" code="610725" />
+			<County text="宁强县" code="610726" />
+			<County text="略阳县" code="610727" />
+			<County text="镇巴县" code="610728" />
+			<County text="留坝县" code="610729" />
+			<County text="佛坪县" code="610730" />
+		</City>
+		<City text="榆林市" code="610800">
+			<County text="市辖区" code="610801" />
+			<County text="榆阳区" code="610802" />
+			<County text="神木县" code="610821" />
+			<County text="府谷县" code="610822" />
+			<County text="横山县" code="610823" />
+			<County text="靖边县" code="610824" />
+			<County text="定边县" code="610825" />
+			<County text="绥德县" code="610826" />
+			<County text="米脂县" code="610827" />
+			<County text="佳县" code="610828" />
+			<County text="吴堡县" code="610829" />
+			<County text="清涧县" code="610830" />
+			<County text="子洲县" code="610831" />
+		</City>
+		<City text="安康市" code="610900">
+			<County text="市辖区" code="610901" />
+			<County text="汉滨区" code="610902" />
+			<County text="汉阴县" code="610921" />
+			<County text="石泉县" code="610922" />
+			<County text="宁陕县" code="610923" />
+			<County text="紫阳县" code="610924" />
+			<County text="岚皋县" code="610925" />
+			<County text="平利县" code="610926" />
+			<County text="镇坪县" code="610927" />
+			<County text="旬阳县" code="610928" />
+			<County text="白河县" code="610929" />
+		</City>
+		<City text="商洛市" code="611000">
+			<County text="市辖区" code="611001" />
+			<County text="商州区" code="611002" />
+			<County text="洛南县" code="611021" />
+			<County text="丹凤县" code="611022" />
+			<County text="商南县" code="611023" />
+			<County text="山阳县" code="611024" />
+			<County text="镇安县" code="611025" />
+			<County text="柞水县" code="611026" />
+		</City>
+	</Province>
+	<Province text="甘肃省" code="620000">
+		<City text="兰州市" code="620100">
+			<County text="市辖区" code="620101" />
+			<County text="城关区" code="620102" />
+			<County text="七里河区" code="620103" />
+			<County text="西固区" code="620104" />
+			<County text="安宁区" code="620105" />
+			<County text="红古区" code="620111" />
+			<County text="永登县" code="620121" />
+			<County text="皋兰县" code="620122" />
+			<County text="榆中县" code="620123" />
+		</City>
+		<City text="嘉峪关市" code="620200">
+			<County text="市辖区" code="620201" />
+		</City>
+		<City text="金昌市" code="620300">
+			<County text="市辖区" code="620301" />
+			<County text="金川区" code="620302" />
+			<County text="永昌县" code="620321" />
+		</City>
+		<City text="白银市" code="620400">
+			<County text="市辖区" code="620401" />
+			<County text="白银区" code="620402" />
+			<County text="平川区" code="620403" />
+			<County text="靖远县" code="620421" />
+			<County text="会宁县" code="620422" />
+			<County text="景泰县" code="620423" />
+		</City>
+		<City text="天水市" code="620500">
+			<County text="市辖区" code="620501" />
+			<County text="秦州区" code="620502" />
+			<County text="麦积区" code="620503" />
+			<County text="清水县" code="620521" />
+			<County text="秦安县" code="620522" />
+			<County text="甘谷县" code="620523" />
+			<County text="武山县" code="620524" />
+			<County text="张家川回族自治县" code="620525" />
+		</City>
+		<City text="武威市" code="620600">
+			<County text="市辖区" code="620601" />
+			<County text="凉州区" code="620602" />
+			<County text="民勤县" code="620621" />
+			<County text="古浪县" code="620622" />
+			<County text="天祝藏族自治县" code="620623" />
+		</City>
+		<City text="张掖市" code="620700">
+			<County text="市辖区" code="620701" />
+			<County text="甘州区" code="620702" />
+			<County text="肃南裕固族自治县" code="620721" />
+			<County text="民乐县" code="620722" />
+			<County text="临泽县" code="620723" />
+			<County text="高台县" code="620724" />
+			<County text="山丹县" code="620725" />
+		</City>
+		<City text="平凉市" code="620800">
+			<County text="市辖区" code="620801" />
+			<County text="崆峒区" code="620802" />
+			<County text="泾川县" code="620821" />
+			<County text="灵台县" code="620822" />
+			<County text="崇信县" code="620823" />
+			<County text="华亭县" code="620824" />
+			<County text="庄浪县" code="620825" />
+			<County text="静宁县" code="620826" />
+		</City>
+		<City text="酒泉市" code="620900">
+			<County text="市辖区" code="620901" />
+			<County text="肃州区" code="620902" />
+			<County text="金塔县" code="620921" />
+			<County text="瓜州县" code="620922" />
+			<County text="肃北蒙古族自治县" code="620923" />
+			<County text="阿克塞哈萨克族自治县" code="620924" />
+			<County text="玉门市" code="620981" />
+			<County text="敦煌市" code="620982" />
+		</City>
+		<City text="庆阳市" code="621000">
+			<County text="市辖区" code="621001" />
+			<County text="西峰区" code="621002" />
+			<County text="庆城县" code="621021" />
+			<County text="环县" code="621022" />
+			<County text="华池县" code="621023" />
+			<County text="合水县" code="621024" />
+			<County text="正宁县" code="621025" />
+			<County text="宁县" code="621026" />
+			<County text="镇原县" code="621027" />
+		</City>
+		<City text="定西市" code="621100">
+			<County text="市辖区" code="621101" />
+			<County text="安定区" code="621102" />
+			<County text="通渭县" code="621121" />
+			<County text="陇西县" code="621122" />
+			<County text="渭源县" code="621123" />
+			<County text="临洮县" code="621124" />
+			<County text="漳县" code="621125" />
+			<County text="岷县" code="621126" />
+		</City>
+		<City text="陇南市" code="621200">
+			<County text="市辖区" code="621201" />
+			<County text="武都区" code="621202" />
+			<County text="成县" code="621221" />
+			<County text="文县" code="621222" />
+			<County text="宕昌县" code="621223" />
+			<County text="康县" code="621224" />
+			<County text="西和县" code="621225" />
+			<County text="礼县" code="621226" />
+			<County text="徽县" code="621227" />
+			<County text="两当县" code="621228" />
+		</City>
+		<City text="临夏回族自治州" code="622900">
+			<County text="临夏市" code="622901" />
+			<County text="临夏县" code="622921" />
+			<County text="康乐县" code="622922" />
+			<County text="永靖县" code="622923" />
+			<County text="广河县" code="622924" />
+			<County text="和政县" code="622925" />
+			<County text="东乡族自治县" code="622926" />
+			<County text="积石山保安族东乡族撒拉族自治县" code="622927" />
+		</City>
+		<City text="甘南藏族自治州" code="623000">
+			<County text="合作市" code="623001" />
+			<County text="临潭县" code="623021" />
+			<County text="卓尼县" code="623022" />
+			<County text="舟曲县" code="623023" />
+			<County text="迭部县" code="623024" />
+			<County text="玛曲县" code="623025" />
+			<County text="碌曲县" code="623026" />
+			<County text="夏河县" code="623027" />
+		</City>
+	</Province>
+	<Province text="青海省" code="630000">
+		<City text="西宁市" code="630100">
+			<County text="市辖区" code="630101" />
+			<County text="城东区" code="630102" />
+			<County text="城中区" code="630103" />
+			<County text="城西区" code="630104" />
+			<County text="城北区" code="630105" />
+			<County text="大通回族土族自治县" code="630121" />
+			<County text="湟中县" code="630122" />
+			<County text="湟源县" code="630123" />
+		</City>
+		<City text="海东地区" code="632100">
+			<County text="平安县" code="632121" />
+			<County text="民和回族土族自治县" code="632122" />
+			<County text="乐都县" code="632123" />
+			<County text="互助土族自治县" code="632126" />
+			<County text="化隆回族自治县" code="632127" />
+			<County text="循化撒拉族自治县" code="632128" />
+		</City>
+		<City text="海北藏族自治州" code="632200">
+			<County text="门源回族自治县" code="632221" />
+			<County text="祁连县" code="632222" />
+			<County text="海晏县" code="632223" />
+			<County text="刚察县" code="632224" />
+		</City>
+		<City text="黄南藏族自治州" code="632300">
+			<County text="同仁县" code="632321" />
+			<County text="尖扎县" code="632322" />
+			<County text="泽库县" code="632323" />
+			<County text="河南蒙古族自治县" code="632324" />
+		</City>
+		<City text="海南藏族自治州" code="632500">
+			<County text="共和县" code="632521" />
+			<County text="同德县" code="632522" />
+			<County text="贵德县" code="632523" />
+			<County text="兴海县" code="632524" />
+			<County text="贵南县" code="632525" />
+		</City>
+		<City text="果洛藏族自治州" code="632600">
+			<County text="玛沁县" code="632621" />
+			<County text="班玛县" code="632622" />
+			<County text="甘德县" code="632623" />
+			<County text="达日县" code="632624" />
+			<County text="久治县" code="632625" />
+			<County text="玛多县" code="632626" />
+		</City>
+		<City text="玉树藏族自治州" code="632700">
+			<County text="玉树县" code="632721" />
+			<County text="杂多县" code="632722" />
+			<County text="称多县" code="632723" />
+			<County text="治多县" code="632724" />
+			<County text="囊谦县" code="632725" />
+			<County text="曲麻莱县" code="632726" />
+		</City>
+		<City text="海西蒙古族藏族自治州" code="632800">
+			<County text="格尔木市" code="632801" />
+			<County text="德令哈市" code="632802" />
+			<County text="乌兰县" code="632821" />
+			<County text="都兰县" code="632822" />
+			<County text="天峻县" code="632823" />
+		</City>
+	</Province>
+	<Province text="宁夏回族自治区" code="640000">
+		<City text="银川市" code="640100">
+			<County text="市辖区" code="640101" />
+			<County text="兴庆区" code="640104" />
+			<County text="西夏区" code="640105" />
+			<County text="金凤区" code="640106" />
+			<County text="永宁县" code="640121" />
+			<County text="贺兰县" code="640122" />
+			<County text="灵武市" code="640181" />
+		</City>
+		<City text="石嘴山市" code="640200">
+			<County text="市辖区" code="640201" />
+			<County text="大武口区" code="640202" />
+			<County text="惠农区" code="640205" />
+			<County text="平罗县" code="640221" />
+		</City>
+		<City text="吴忠市" code="640300">
+			<County text="市辖区" code="640301" />
+			<County text="利通区" code="640302" />
+			<County text="红寺堡区" code="640303" />
+			<County text="盐池县" code="640323" />
+			<County text="同心县" code="640324" />
+			<County text="青铜峡市" code="640381" />
+		</City>
+		<City text="固原市" code="640400">
+			<County text="市辖区" code="640401" />
+			<County text="原州区" code="640402" />
+			<County text="西吉县" code="640422" />
+			<County text="隆德县" code="640423" />
+			<County text="泾源县" code="640424" />
+			<County text="彭阳县" code="640425" />
+		</City>
+		<City text="中卫市" code="640500">
+			<County text="市辖区" code="640501" />
+			<County text="沙坡头区" code="640502" />
+			<County text="中宁县" code="640521" />
+			<County text="海原县" code="640522" />
+		</City>
+	</Province>
+	<Province text="新疆维吾尔自治区" code="650000">
+		<City text="乌鲁木齐市" code="650100">
+			<County text="市辖区" code="650101" />
+			<County text="天山区" code="650102" />
+			<County text="沙依巴克区" code="650103" />
+			<County text="新市区" code="650104" />
+			<County text="水磨沟区" code="650105" />
+			<County text="头屯河区" code="650106" />
+			<County text="达坂城区" code="650107" />
+			<County text="米东区" code="650109" />
+			<County text="乌鲁木齐县" code="650121" />
+		</City>
+		<City text="克拉玛依市" code="650200">
+			<County text="市辖区" code="650201" />
+			<County text="独山子区" code="650202" />
+			<County text="克拉玛依区" code="650203" />
+			<County text="白碱滩区" code="650204" />
+			<County text="乌尔禾区" code="650205" />
+		</City>
+		<City text="吐鲁番地区" code="652100">
+			<County text="吐鲁番市" code="652101" />
+			<County text="鄯善县" code="652122" />
+			<County text="托克逊县" code="652123" />
+		</City>
+		<City text="哈密地区" code="652200">
+			<County text="哈密市" code="652201" />
+			<County text="巴里坤哈萨克自治县" code="652222" />
+			<County text="伊吾县" code="652223" />
+		</City>
+		<City text="昌吉回族自治州" code="652300">
+			<County text="昌吉市" code="652301" />
+			<County text="阜康市" code="652302" />
+			<County text="呼图壁县" code="652323" />
+			<County text="玛纳斯县" code="652324" />
+			<County text="奇台县" code="652325" />
+			<County text="吉木萨尔县" code="652327" />
+			<County text="木垒哈萨克自治县" code="652328" />
+		</City>
+		<City text="博尔塔拉蒙古自治州" code="652700">
+			<County text="博乐市" code="652701" />
+			<County text="精河县" code="652722" />
+			<County text="温泉县" code="652723" />
+		</City>
+		<City text="巴音郭楞蒙古自治州" code="652800">
+			<County text="库尔勒市" code="652801" />
+			<County text="轮台县" code="652822" />
+			<County text="尉犁县" code="652823" />
+			<County text="若羌县" code="652824" />
+			<County text="且末县" code="652825" />
+			<County text="焉耆回族自治县" code="652826" />
+			<County text="和静县" code="652827" />
+			<County text="和硕县" code="652828" />
+			<County text="博湖县" code="652829" />
+		</City>
+		<City text="阿克苏地区" code="652900">
+			<County text="阿克苏市" code="652901" />
+			<County text="温宿县" code="652922" />
+			<County text="库车县" code="652923" />
+			<County text="沙雅县" code="652924" />
+			<County text="新和县" code="652925" />
+			<County text="拜城县" code="652926" />
+			<County text="乌什县" code="652927" />
+			<County text="阿瓦提县" code="652928" />
+			<County text="柯坪县" code="652929" />
+		</City>
+		<City text="克孜勒苏柯尔克孜自治州" code="653000">
+			<County text="阿图什市" code="653001" />
+			<County text="阿克陶县" code="653022" />
+			<County text="阿合奇县" code="653023" />
+			<County text="乌恰县" code="653024" />
+		</City>
+		<City text="喀什地区" code="653100">
+			<County text="喀什市" code="653101" />
+			<County text="疏附县" code="653121" />
+			<County text="疏勒县" code="653122" />
+			<County text="英吉沙县" code="653123" />
+			<County text="泽普县" code="653124" />
+			<County text="莎车县" code="653125" />
+			<County text="叶城县" code="653126" />
+			<County text="麦盖提县" code="653127" />
+			<County text="岳普湖县" code="653128" />
+			<County text="伽师县" code="653129" />
+			<County text="巴楚县" code="653130" />
+			<County text="塔什库尔干塔吉克自治县" code="653131" />
+		</City>
+		<City text="和田地区" code="653200">
+			<County text="和田市" code="653201" />
+			<County text="和田县" code="653221" />
+			<County text="墨玉县" code="653222" />
+			<County text="皮山县" code="653223" />
+			<County text="洛浦县" code="653224" />
+			<County text="策勒县" code="653225" />
+			<County text="于田县" code="653226" />
+			<County text="民丰县" code="653227" />
+		</City>
+		<City text="伊犁哈萨克自治州" code="654000">
+			<County text="伊宁市" code="654002" />
+			<County text="奎屯市" code="654003" />
+			<County text="伊宁县" code="654021" />
+			<County text="察布查尔锡伯自治县" code="654022" />
+			<County text="霍城县" code="654023" />
+			<County text="巩留县" code="654024" />
+			<County text="新源县" code="654025" />
+			<County text="昭苏县" code="654026" />
+			<County text="特克斯县" code="654027" />
+			<County text="尼勒克县" code="654028" />
+		</City>
+		<City text="塔城地区" code="654200">
+			<County text="塔城市" code="654201" />
+			<County text="乌苏市" code="654202" />
+			<County text="额敏县" code="654221" />
+			<County text="沙湾县" code="654223" />
+			<County text="托里县" code="654224" />
+			<County text="裕民县" code="654225" />
+			<County text="和布克赛尔蒙古自治县" code="654226" />
+		</City>
+		<City text="阿勒泰地区" code="654300">
+			<County text="阿勒泰市" code="654301" />
+			<County text="布尔津县" code="654321" />
+			<County text="富蕴县" code="654322" />
+			<County text="福海县" code="654323" />
+			<County text="哈巴河县" code="654324" />
+			<County text="青河县" code="654325" />
+			<County text="吉木乃县" code="654326" />
+		</City>
+		<City text="自治区直辖县级行政区划" code="659000">
+			<County text="石河子市" code="659001" />
+			<County text="阿拉尔市" code="659002" />
+			<County text="图木舒克市" code="659003" />
+			<County text="五家渠市" code="659004" />
+		</City>
+	</Province>
+</Area>
