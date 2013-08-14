@@ -9,6 +9,7 @@ import org.tao.certbuilder.xml.area.County;
 import org.tao.certbuilder.xml.area.Province;
 
 public class AreaReader extends XMLReader {
+
 	public AreaReader() throws Exception {
 		super();
 	}
