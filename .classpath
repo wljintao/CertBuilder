@@ -14,9 +14,9 @@
 	<classpathentry kind="lib" path="D:/Program Files/eclipse/plugins/org.eclipse.ui.workbench_3.6.2.M20110210-1200.jar" sourcepath="D:/Program Files/eclipse/plugins/org.eclipse.ui.workbench_3.6.2.M20110210-1200.jar"/>
 	<classpathentry kind="lib" path="D:/Program Files/eclipse/plugins/com.ibm.icu_4.2.1.v20100412.jar" sourcepath="D:/Program Files/eclipse/plugins/com.ibm.icu_4.2.1.v20100412.jar"/>
 	<classpathentry kind="lib" path="D:/Program Files/eclipse/plugins/org.eclipse.ui.forms_3.5.2.r36_v20100702.jar" sourcepath="D:/Program Files/eclipse/plugins/org.eclipse.ui.forms_3.5.2.r36_v20100702.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/java/CertBuilder/lib/jaxen-1.1.4.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/java/CertBuilder/lib/jdom-2.0.4.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/java/CertBuilder/lib/xercesImpl.jar"/>
-	<classpathentry kind="lib" path="E:/workspace/java/CertBuilder/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/java/CertBuilder/lib/jaxen-1.1.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/java/CertBuilder/lib/jdom-2.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/java/CertBuilder/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/java/CertBuilder/lib/xml-apis.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
