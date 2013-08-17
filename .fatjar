@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Aug 18 00:29:10 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=CertBuilder.jar
+manifest.mergeall=true
+manifest.mainclass=org.tao.certbuilder.main.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
