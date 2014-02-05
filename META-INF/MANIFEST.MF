@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.taoapp.caipiao.Startor
+Class-Path: . lib/jaxen-1.1.4.jar lib/jdom-2.0.4.jar lib/swt.jar lib/xercesImpl.jar lib/xml-apis.jar
+Created-By: jt
